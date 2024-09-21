@@ -28,7 +28,7 @@
 
 
 		"uniqueName": "Ahmuban Conscription",
-		"uniques": ["Free [Myinsi] appears <upon constructing [Culture]> <when at war>"," [+1 Production ] from every [Plains] <when at war>"," [+1 Culture ] from every [Hill]  <when at war>"],
+		"uniques": ["Free [Myinsi] appears <upon constructing [Culture]> <when at war>"," [ +1 Production ] from every [Plains] <when at war>"," [ +1 Culture ] from every [Hill]  <when at war>"],
 		
 		"outerColor": [26, 32, 138],
 		"innerColor": [36, 158, 53],
