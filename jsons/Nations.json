@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Burma",
+		"leaderName": "Bayinnaung",
+		"adjective": ["burmese"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Considered one of the three greatest kings of Burma, along with Anawrahta and Alaungpaya, Bayinnaung Kyawhtin Nawrahta was king of Toungoo Dynasty of Burma from 1550 to 1581. During his 31-year reign, which has been called 'the greatest explosion of human energy ever seen in Burma', Bayinnaung assembled the largest empire in the history of Southeast Asia, which included much of modern-day Burma, Chinese Shan states, Lan Na, Lan Xang, Manipur and Siam.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You will give me allegience, even if I must force you to do it myself!",
+		"attacked": "You must be a fool to think my empire will be so easily brought to heel.",
+		"defeated": "How is Burma now a vassal of such a feeble nation? Why must fate bring the worst upon me?",
+		"introduction": "You have the honour of meeting the King of Burma, conqurer of the Ten Directions! Do you come bearing tribute for my illustrious Empire?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Maingalarpar (Greetings)",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Pyaww nyantar bhar ko lohkyintar lell? (What do you want?)",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "I have to say, you resistance was quite impressive indeed",
+		"tradeRequest": "Such lack of ambition, maybe some of Burma's finest goods will make you see the fruits of war.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [26, 32, 138],
+		"innerColor": [36, 158, 53],
+		"unique": "Ahmudan Conscription",
+		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggyi","Bago","Monywa","Myitkyina","Pathein",
+			"Sittwe","Pyay","Pakokku","Myeik","Sandoway","Ingapu","Bassein","Prome","Martaban","Toungoo",
+			"Moulmein"]
 	}
 ]
