@@ -26,9 +26,12 @@
 		"afterPeace": "I have to say, you resistance was quite impressive indeed",
 		"tradeRequest": "Such lack of ambition, maybe some of Burma's finest goods will make you see the fruits of war.",
 
+
+		"uniqueName": "Ahmuban Conscription",
+		"uniques": ["Free [Myinsi] appears <upon constructing [Culture]>"," [+1 Production] from every [Plains] <when at war>"," [+1 Production] from every [Grassland] <when at war>"],
+		
 		"outerColor": [26, 32, 138],
 		"innerColor": [36, 158, 53],
-		"unique": "Ahmudan Conscription",
 		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggyi","Bago","Monywa","Myitkyina","Pathein",
 			"Sittwe","Pyay","Pakokku","Myeik","Sandoway","Ingapu","Bassein","Prome","Martaban","Toungoo",
 			"Moulmein"]
