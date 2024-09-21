@@ -6,7 +6,7 @@
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"culture": 1,
-		"faith"; 1,
+		"faith": 1,
 		"uniques": ["[+1 Faith] from [Farm] tiles [in this city]",
 			"[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>"]
 		"requiredTech": "Philosophy"
