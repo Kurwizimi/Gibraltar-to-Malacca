@@ -29,7 +29,7 @@
 
 
 		"uniqueName": "Ahmuban Conscription",
-		"uniques": ["[+1 Production] from [All] tiles [in all cities] <when at war>","Free [Great General] <upon declaring war with a major Civilization>"],
+		"uniques": ["[+1 Production] from [All] tiles [in all cities] <when at war>","[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>","[1] free [Myinsi] units appear <upon entering the [Renaissance era]>"],
 		
 		"outerColor": [26, 32, 138],
 		"innerColor": [36, 158, 53],
