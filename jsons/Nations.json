@@ -29,7 +29,7 @@
 
 
 		"uniqueName": "Ahmuban Conscription",
-		"uniques": ["[+1 Production] from [All] tiles [in all cities] <while at war>"],
+		"uniques": ["[+1 Production] from [All] tiles [in all cities] <when at war>","Free [Great General] <upon declaring war with a major Civilization>"],
 		
 		"outerColor": [26, 32, 138],
 		"innerColor": [36, 158, 53],
