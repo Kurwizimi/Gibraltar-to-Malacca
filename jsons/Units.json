@@ -23,6 +23,6 @@
 		"strength": 5,
 		"requiredTech": "Sailing",
 		"obsolete": "Astronomy",
-		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>", "Uncapturable","Cannot enter ocean tiles","May create improvements on water resources"]
+		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>","Cannot enter ocean tiles","May create improvements on water resources"]
 	}
 ]
