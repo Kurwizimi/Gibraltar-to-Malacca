@@ -113,7 +113,7 @@
 		"uniqueName": "Convivencia",
 		"uniques": ["[+10]% [Science, Culture] [in all cities] <after founding a religion>","[+10]% [Science, Culture] [in all cities] <after enhancing a religion>","Free [Missionary] appears <upon declaring friendship>"],
 		
-		"outerColor": [8, 91, 163],
-		"innerColor": [204, 149, 39],
+		"outerColor": [181, 171, 31],
+		"innerColor": [179, 29, 49],
 		"cities": ["Gharnatah","Qurtubah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"]
 ]
