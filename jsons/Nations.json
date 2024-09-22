@@ -67,11 +67,11 @@
 
 
 		"uniqueName": "Coral Harbours",
-		"uniques": ["[+2 Gold] from every [Fishing Boats]","[+2 Production] from [Atoll] tiles [in all cities]","[+1 Culture] from every [Water resource]""],
+		"uniques": ["[+2 Gold] from every [Fishing Boats]","[+2 Production] from [Atoll] tiles [in all cities]","[+1 Culture] from every [Water resource]"],
 		
 		"outerColor": [26, 32, 138],
 		"innerColor": [36, 158, 53],
 		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi",
-			"Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro",]
+			"Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro"]
 	}
 ]
