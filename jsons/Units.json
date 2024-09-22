@@ -25,4 +25,18 @@
 		"obsolete": "Astronomy",
 		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>","Cannot enter ocean tiles","May create improvements on water resources"]
 	}
+
+	{
+		"name": "Zenata Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Al Andalus",
+		"replaces": "Knight",
+		"movement": 4,
+		"strength": 25,
+		"cost": 125,
+		"obsolete": "Military Science"
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"promotions": ["Amphibious","Home Sweet Home"],
+	}
 ]
