@@ -11,6 +11,16 @@
 		"requiredTech": "Printing Press",
 		"requiredResource": "Horses",
 		"promotions": ["Besiege"],
-		"attackSound": "phasers"
+	}
+
+	{
+		"name": "Jahazi",
+		"unitType": "Civilian Water",
+		"uniqueTo": "Swahilli",
+		"replaces": "Work boats",
+		"movement": 5,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>", "Uncaptureable","Cannot enter ocean tiles"]
 	}
 ]
