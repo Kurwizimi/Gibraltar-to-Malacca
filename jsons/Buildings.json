@@ -22,6 +22,6 @@
 		"happiness": 1,
 		"uniques": ["[+1 Gold,] from all [Gold] buildings",
 			    "[+2 Gold] from each Trade Route"]
-		"maintainence": 1,
+		"maintainence": 1
 	}
 ]
