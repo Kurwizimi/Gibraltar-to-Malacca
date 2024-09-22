@@ -18,7 +18,7 @@
 		"uniqueTo": "Swahilli",
 		"cost": 40,
 		"hurryCostModifier": 160,
-		"maintainence": 1,
+		"maintenance": 1,
 		"culture": 3,
 		"happiness": 1,
 		"uniques": ["[+1 Gold,] from all [Gold] buildings",
