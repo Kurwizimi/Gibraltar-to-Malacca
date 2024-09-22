@@ -9,7 +9,7 @@
 		"faith": 1,
 		"uniques": ["[+1 Faith] from [Farm] tiles [in this city]",
 			    "[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>"]
-		"requiredTech": "Philosophy"
+		"requiredTech": "Philosophy",
 	}
 
 	{
@@ -22,7 +22,20 @@
 		"culture": 3,
 		"happiness": 1,
 		"uniques": ["[+1 Gold] from all [Gold] buildings",
-			    "[+2 Gold] from each Trade Route"]
+			    "[+2 Gold] from each Trade Route"],
 		
+	}
+
+	{
+		"name": "Alcazar",
+		"replaces": "Castle",
+		"uniqueTo": "Al Andalus",
+		"cost": 160,
+		"hurryCostModifier": 160,
+		"science": 2,
+		"cityStrength": 15,
+		"cityHealth": 30,
+		"uniques": ["[+1 Science] from all [Science] buildings","[+4 Science] from every [Fort]"],
+		"requiredTech": "Chivalry",
 	}
 ]
