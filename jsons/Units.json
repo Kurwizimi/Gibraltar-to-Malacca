@@ -17,7 +17,7 @@
 		"name": "Jahazi",
 		"unitType": "Civilian Water",
 		"uniqueTo": "Swahilli",
-		"replaces": "Work boats",
+		"replaces": "Work Boats",
 		"movement": 5,
 		"cost": 30,
 		"requiredTech": "Sailing",
