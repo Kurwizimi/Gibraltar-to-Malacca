@@ -2,7 +2,7 @@
 	{
 		"name": "Burma",
 		"leaderName": "Bayinnaung",
-		"adjective": ["burmese"],
+		"adjective": ["Burmese"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion":"Buddhism",
@@ -27,6 +27,8 @@
 		"afterPeace": "I have to say, you resistance was quite impressive indeed",
 		"tradeRequest": "Such lack of ambition, maybe some of Burma's finest goods will make you see the fruits of war.",
 
+		"spyNames": ["Thandar","Htut","So","Thiri","Sandy","Htin","Kyaw","Ei","Soe","Zaw"],
+
 
 		"uniqueName": "Ahmuban Conscription",
 		"uniques": ["[+1 Production] from [All] tiles [in all cities] <when at war>","[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>","[1] free [Myinsi] units appear <upon entering the [Renaissance era]>"],
@@ -41,7 +43,7 @@
 	{
 		"name": "Swahili",
 		"leaderName": "Al-Hasan ibn Suleiman",
-		"adjective": ["swahili"],
+		"adjective": ["Swahili"],
 		"startBias": ["Coast"],
 		"favoredReligion":"Islam",
 		
@@ -65,6 +67,8 @@
 		"afterPeace": "The Swahili Empire shall stand for another day ... and so shall yours.",
 		"tradeRequest": "May we interest you in a trade deal?",
 
+		"spyNames": ["Imani","Leila","Baraka","Omar","Adia","Anahita","Amani","Ahmad","Akida","Bijan"],
+
 
 		"uniqueName": "Coral Harbours",
 		"uniques": ["[+2 Gold] from every [Fishing Boats]","[+2 Production] from [Atoll] tiles [in all cities]","[+1 Culture] from every [Water resource]"],
@@ -74,4 +78,42 @@
 		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi",
 			"Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro"]
 	}
+
+
+	{
+		"name": "Al-Andalus",
+		"leaderName": "Abd al-Rahman III",
+		"adjective": ["Andalusian"],
+		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
+		
+		"startIntroPart1": "Sultan al-Hasan ibn Suleiman, often referred to as 'Al-Mawahib' ('father of gifts'), was the ruler of the city-state of Kilwa, from 1310 until 1333. Sultan al-Hasan ibn Suleiman is reported to have have been a generous and intelligent man. Numerous construction projects took place during his reign, including the building of the Palace of Husuni Kubwa and a significant extension to the Great Mosque of Kilwa.",
+		
+		"declaringWar": "I have crushed infidels, and I have crushed rebels. Now, I shall crush you.",
+		"attacked": "Our fortressess may be beautifull, but theey are fortressess nontheless. You have underestimated our strength greatly.",
+		"defeated": "I thought my reign was ordained by God. I thought Andalus shall be blessed with an eternalGolden Age. And now I am humbled by you, and by God.",
+		"introduction": "I, Caliph Abd al-Rahman III, wlcome to Al-Andalus. Would you like to walk with me in my gardens? We have much to discuss. ",
+		
+		"neutralHello": "Welcome. stranger",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Here to marvel at our greatness?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Our forts still stand strong, and the heart of the Andalusian peoples still beats.",
+		"tradeRequest": "We have an interest in some of your treasures, should we trade?",
+
+		"spyNames": ["Alayza","Buchra","Amira","Ayoub","Adillah","Amine","Ahmed","Isa","Suleiman","Hajar"],
+
+
+		"uniqueName": "Convivencia",
+		"uniques": ["[+10]% [Science, Culture] [in all cities] <after founding a religion>","[+10]% [Science, Culture] [in all cities] <after enhancing a religion>","Free [Missionary] appears <upon declaring friendship>"],
+		
+		"outerColor": [8, 91, 163],
+		"innerColor": [204, 149, 39],
+		"cities": ["Gharnatah","Qurtubah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"]
 ]
