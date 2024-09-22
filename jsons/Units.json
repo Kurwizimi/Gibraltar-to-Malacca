@@ -21,6 +21,6 @@
 		"movement": 5,
 		"cost": 30,
 		"requiredTech": "Sailing",
-		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>", "Uncaptureable","Cannot enter ocean tiles"]
+		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>", "Uncapturable","Cannot enter ocean tiles"]
 	}
 ]
