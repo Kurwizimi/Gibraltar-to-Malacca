@@ -15,12 +15,13 @@
 
 	{
 		"name": "Jahazi",
-		"unitType": "Civilian Water",
+		"unitType": "Melee Water",
 		"uniqueTo": "Swahilli",
-		"replaces": "Work Boats",
+		"replaces": "Trireme",
 		"movement": 5,
 		"cost": 30,
+		"strength": 5,
 		"requiredTech": "Sailing",
-		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>", "Uncapturable","Cannot enter ocean tiles"]
+		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>", "Uncapturable","Cannot enter ocean tiles","May create improvements on water resources"]
 	}
 ]
