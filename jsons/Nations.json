@@ -87,7 +87,7 @@
 		"startBias": ["Coast"],
 		"favoredReligion":"Islam",
 		
-		"startIntroPart1": "Sultan al-Hasan ibn Suleiman, often referred to as 'Al-Mawahib' ('father of gifts'), was the ruler of the city-state of Kilwa, from 1310 until 1333. Sultan al-Hasan ibn Suleiman is reported to have have been a generous and intelligent man. Numerous construction projects took place during his reign, including the building of the Palace of Husuni Kubwa and a significant extension to the Great Mosque of Kilwa.",
+		"startIntroPart1": "Abd al-Rahman III was an Umayyad prince who reigned as Emir of Cordoba, and later Caliph of Cordoba, from 912 to 961 CE. His reign is remembered as a golden age of Muslim Spain and Umayyad rule, epitomized by his declaration of the second Umayyad Caliphate in 929 CE. He re-established one unified Muslim state in Spain and presided over the expansion of his capital at Cordoba as well as the founding of the impressive caliphal palace at Madinat al-Zahra.",
 		
 		"declaringWar": "I have crushed infidels, and I have crushed rebels. Now, I shall crush you.",
 		"attacked": "Our fortressess may be beautifull, but theey are fortressess nontheless. You have underestimated our strength greatly.",
@@ -115,5 +115,5 @@
 		
 		"outerColor": [181, 171, 31],
 		"innerColor": [179, 29, 49],
-		"cities": ["Gharnatah","Qurtubah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"]
+		"cities": ["Qurtubah","Gharnatah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"]
 ]
