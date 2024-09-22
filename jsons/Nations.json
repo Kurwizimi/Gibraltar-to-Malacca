@@ -37,4 +37,41 @@
 			"Sittwe","Pyay","Pakokku","Myeik","Sandoway","Ingapu","Bassein","Prome","Martaban","Toungoo",
 			"Moulmein"]
 	}
+
+	{
+		"name": "Swahili",
+		"leaderName": "Al-Hasan ibn Suleiman",
+		"adjective": ["swahili"],
+		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
+		
+		"startIntroPart1": "Sultan al-Hasan ibn Suleiman, often referred to as 'Al-Mawahib' ('father of gifts'), was the ruler of the city-state of Kilwa, from 1310 until 1333. Sultan al-Hasan ibn Suleiman is reported to have have been a generous and intelligent man. Numerous construction projects took place during his reign, including the building of the Palace of Husuni Kubwa and a significant extension to the Great Mosque of Kilwa.",
+		
+		"declaringWar": "Your cities are lacking true beauty only my nation can provide. They shall be rebuilt by our grand fleet!",
+		"attacked": "You should make your empire look nice insead of destroying ours.",
+		"defeated": "The Swahilli may now be enslaved, but the beauty of our works shall stand the test of time.",
+		"introduction": "I welcome you to the magnificent empire of the Swahili. Our cities stand as gems on the oceans edge. ",
+		
+		"neutralHello": "Muda wa biashara? (Are you here to trade?)",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Una bidhaa gani? (What goods do you have?)",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "The Swahili Empire shall stand for another day ... and so shall yours.",
+		"tradeRequest": "May we interest you in a trade deal?",
+
+
+		"uniqueName": "Coral Harbours",
+		"uniques": ["[+2 Gold] from every [Fishing Boats]","[+2 Production] from [Atoll] tiles [in all cities]","[+1 Culture] from every [Water resource]""],
+		
+		"outerColor": [26, 32, 138],
+		"innerColor": [36, 158, 53],
+		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi",
+			"Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro",]
+	}
 ]
