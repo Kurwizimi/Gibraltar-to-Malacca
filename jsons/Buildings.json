@@ -15,7 +15,7 @@
 	{
 		"name": "Pillar Tomb",
 		"replaces": "Monument",
-		"uniqueTo": "Swahilli",
+		"uniqueTo": "Swahili",
 		"cost": 40,
 		"hurryCostModifier": 160,
 		"maintenance": 1,
