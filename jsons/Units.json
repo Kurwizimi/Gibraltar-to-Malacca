@@ -39,4 +39,18 @@
 		"requiredResource": "Horses",
 		"promotions": ["Amphibious","Home Sweet Home"],
 	}
+
+	{
+		"name": "Clibanarii",
+		"unitType": "Mounted",
+		"uniqueTo": "The Sassanid Empire",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 17,
+		"cost": 75,
+		"obsolete": "Chivalry"
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"promotions": ["Charge","Cover I"],
+	}
 ]
