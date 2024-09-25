@@ -38,7 +38,7 @@
 		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggyi","Bago","Monywa","Myitkyina","Pathein",
 			"Sittwe","Pyay","Pakokku","Myeik","Sandoway","Ingapu","Bassein","Prome","Martaban","Toungoo",
 			"Moulmein"]
-	}
+	},
 
 	{
 		"name": "Swahili",
@@ -77,7 +77,7 @@
 		"innerColor": [204, 149, 39],
 		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi",
 			"Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro"]
-	}
+	},
 
 
 	{
@@ -116,4 +116,45 @@
 		"outerColor": [181, 171, 31],
 		"innerColor": [179, 29, 49],
 		"cities": ["Qurtubah","Gharnatah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"]
+	},
+
+	{
+		"name": "Sassanid Empire",
+		"leaderName": "Sharpur II",
+		"adjective": ["Sassanid"],
+		"startBias": ["Avoid Coast"],
+		"favoredReligion":"Zoroastrianism",
+		
+		"startIntroPart1": ".",
+		
+		"declaringWar": "The earth will tremble with my grand army. It is time for you to deliver my tribute.",
+		"attacked": "Ha! Have you not read about my titles? I am the king of kings, and you shall kneel to me.",
+		"defeated": "Just like the Parthians, my empire falls to rubble. Now your nation will make its mark on history forevermore. ",
+		"introduction": "Welcome, I am Shahanshah Sharpur II, the Greatest king of all nations. ",
+		
+		"neutralHello": "Welcome",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Why do you ruin my view with your presence?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "The Sassanids will deal with this tribute.",
+		"tradeRequest": "Can we offer you some of our finest goods?",
+
+		"spyNames": ["Thandar","Htut","So","Thiri","Sandy","Htin","Kyaw","Ei","Soe","Zaw"],
+
+
+		"uniqueName": "Trade from Sana'a to Nanjing",
+		"uniques": ["[+1 Gold] from every Trade Route","[-25]% maintenance on road & railroads","[+10]% [Gold] <when at war>"],
+		
+		"outerColor": [104, 7, 145],
+		"innerColor": [200, 10, 25],
+		"cities": ["Ctesiphon","Sarpol-e Zahab‎ ","Barda","Amghishiya","Izadkhast","Istakhr","Pushang","Ubulla","Valashabad",
+			"Abarsas","Gundeshapur","Peroz-Shapur","Kashkar","Merv","Onoguris","Ganzak","Abiward","Hdatta","Nehardea",
+			"Weh Antiok Khosrow"]
+	}
 ]
