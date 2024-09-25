@@ -45,12 +45,13 @@
 		"unitType": "Mounted",
 		"uniqueTo": "The Sassanid Empire",
 		"replaces": "Horseman",
-		"movement": 4,
+		"movement": 3,
 		"strength": 17,
 		"cost": 75,
 		"obsolete": "Chivalry"
+		"uniques":["No defensive terrain bonus","[+5]% Gold cost of upgrading"],
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
-		"promotions": ["Charge","Cover I"],
+		"promotions": ["Charge"],
 	}
 ]
