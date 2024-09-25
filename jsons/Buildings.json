@@ -38,4 +38,14 @@
 		"uniques": ["[+1 Science] from all [Science] buildings","[+4 Science] from every [Fort]"],
 		"requiredTech": "Chivalry",
 	}
+
+	{
+		"name": "Nahrawan Canal",
+		"uniqueTo": "The Sassanid Empire",
+		"cost": 80,
+		"hurryCostModifier": 250,
+		"food": 2,
+		"uniques": ["[1] population in a random city","[+15]% [Growth]","[+1 Food] from [Farm] tiles [in this city] <when not at war>"],
+		"requiredTech": "Calendar",
+	}
 ]
