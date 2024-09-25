@@ -111,7 +111,7 @@
 
 
 		"uniqueName": "Convivencia",
-		"uniques": ["[+10]% [Science, Culture] [in all cities] <after founding a religion>","[+10]% [Science, Culture] [in all cities] <after enhancing a religion>","Free [Missionary] appears <upon declaring friendship>"],
+		"uniques": ["[+10]% [Science] [in all cities] <after founding a religion>","[+10]% [Science] [in all cities] <after enhancing a religion>","[+10]% [Culture] [in all cities] <after founding a religion>","[+10]% [Culture] [in all cities] <after enhancing a religion>","Free [Missionary] appears <upon declaring friendship>"],
 		
 		"outerColor": [181, 171, 31],
 		"innerColor": [179, 29, 49],
@@ -149,7 +149,7 @@
 
 
 		"uniqueName": "Trade from Sana'a to Nanjing",
-		"uniques": ["[+1 Gold] from every Trade Route","[-25]% maintenance on road & railroads","[+10]% [Gold] <when at war>"],
+		"uniques": ["[-25]% maintenance on road & railroads","[+20]% [Gold] <when at war>"],
 		
 		"outerColor": [104, 7, 145],
 		"innerColor": [200, 10, 25],
