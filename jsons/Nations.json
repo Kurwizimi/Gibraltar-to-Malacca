@@ -185,8 +185,8 @@
 
 		"tradeRequest": "Please accept this deal, it is the best we can offer",
 
-		"outerColor": [0, 109, 33],
-		"innerColor": [223, 0, 0],
+		"outerColor": [40, 200, 200],
+		"innerColor": [148, 25, 6],
 		"favoredReligion": "Islam",
 		"uniqueName": "Spectre of Somaliland",
 		"uniques": ["[+5 Faith] from every [Fort] <when at war> ","[100]% of excess happiness converted to [Production] <upon declaring friendship> "],
