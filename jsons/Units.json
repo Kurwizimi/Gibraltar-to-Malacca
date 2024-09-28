@@ -36,6 +36,7 @@
 		"cost": 125,
 		"obsolete": "Military Science"
 		"requiredTech": "Chivalry",
+		"uniques":["No defensive terrain bonus"],
 		"requiredResource": "Horses",
 		"promotions": ["Amphibious","Home Sweet Home"],
 	}
@@ -54,4 +55,18 @@
 		"requiredResource": "Horses",
 		"promotions": ["Charge"],
 	}
+
+	{
+		"name": "Dervish Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Somaliland",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 34,
+		"cost": 150,
+		"uniques":["Can move immediately once bought","May capture killed [Wounded] units","Can move after attacking"],
+		"requiredTech": "Military Science",
+		"obsolete": "Combustion",
+		"requiredResource": "Horses",
+	},
 ]
