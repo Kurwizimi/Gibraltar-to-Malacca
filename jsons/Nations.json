@@ -159,9 +159,9 @@
 	},
 	
 	{
-		"name": "Somaliland",
+		"name": "Somalia",
 		"leaderName": "Sayyid Muhammad Abdullah Hasan",
-		"adjective": ["Somalilander"],
+		"adjective": ["Somali"],
 		"startBias": ["Coast"],
 
 		"startIntroPart1": "",
@@ -170,7 +170,7 @@
 		"declaringWar": "Your eyes have strayed away from us for far too long, now is our time to strike!",
 		"attacked": "To arms it is then",
 		"defeated": "Our freedom was temporary after all. We shall be bound as slaves for the rest of eternity then.",
-		"introduction": "Hello, We welcome you to our nation.",
+		"introduction": "Greetings, We welcome you the nation of wandering bards, Somalia.",
 
 
 		"neutralHello": "Welcome",
