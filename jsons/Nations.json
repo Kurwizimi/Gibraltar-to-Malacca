@@ -156,5 +156,43 @@
 		"cities": ["Ctesiphon","Sarpol-e Zahab‎ ","Barda","Amghishiya","Izadkhast","Istakhr","Pushang","Ubulla","Valashabad",
 			"Abarsas","Gundeshapur","Peroz-Shapur","Kashkar","Merv","Onoguris","Ganzak","Abiward","Hdatta","Nehardea",
 			"Weh Antiok Khosrow"]
-	}
+	},
+	
+	{
+		"name": "Somaliland",
+		"leaderName": "Sayyid Muhammad Abdullah Hasan",
+		"adjective": ["Somalilander"],
+		"startBias": ["Coast"],
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Your eyes have strayed away from us for far too long, now is our time to strike!",
+		"attacked": "To arms it is then",
+		"defeated": "Our freedom was temporary after all. We shall be bound as slaves for the rest of eternity then.",
+		"introduction": "Hello, We welcome you to our nation.",
+
+
+		"neutralHello": "Welcome",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+		
+		"hateHello": "Why do you show your face to me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"Such a pathetic deal"],
+		"hateYes": ["Very well..."],
+
+		"tradeRequest": "Please accept this deal, it is the best we can offer",
+
+		"outerColor": [0, 109, 33],
+		"innerColor": [223, 0, 0],
+		"favoredReligion": "Islam",
+		"uniqueName": "Spectre of Somaliland",
+		"uniques": ["[+5 Faith] from every [Fort] <when at war> ","[100]% of excess happiness converted to [Production] <upon declaring friendship> "],
+		"cities": ["Mugadishu","Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale","El Afweyn","Aynaba",
+			"Oog","Iskudar","Habariheshay"],
+      		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
+	},
+	
 ]
