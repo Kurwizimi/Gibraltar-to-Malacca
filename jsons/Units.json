@@ -59,7 +59,7 @@
 	{
 		"name": "Dervish Cavalry",
 		"unitType": "Mounted",
-		"uniqueTo": "Somalila",
+		"uniqueTo": "Somalia",
 		"replaces": "Cavalry",
 		"movement": 4,
 		"strength": 34,
