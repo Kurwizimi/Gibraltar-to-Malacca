@@ -31,7 +31,9 @@
 
 
 		"uniqueName": "Ahmuban Conscription",
-		"uniques": ["[+1 Production] from [All] tiles [in all cities] <when at war>","[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>","[1] free [Myinsi] units appear <upon entering the [Renaissance era]>"],
+		"uniques": ["[+1 Production] from [All] tiles [in all cities] <when at war>",
+			    "[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",
+			    "[1] free [Myinsi] units appear <upon entering the [Renaissance era]>"],
 		
 		"outerColor": [26, 32, 138],
 		"innerColor": [36, 158, 53],
@@ -71,7 +73,9 @@
 
 
 		"uniqueName": "Coral Harbours",
-		"uniques": ["[+2 Gold] from every [Fishing Boats]","[+2 Production] from [Atoll] tiles [in all cities]","[+1 Culture] from every [Water resource]"],
+		"uniques": ["[+2 Gold] from every [Fishing Boats]",
+			    "[+2 Production] from [Atoll] tiles [in all cities]",
+			    "[+1 Culture] from every [Water resource]"],
 		
 		"outerColor": [8, 91, 163],
 		"innerColor": [204, 149, 39],
@@ -111,7 +115,9 @@
 
 
 		"uniqueName": "Convivencia",
-		"uniques": ["[+10]% [Science] [in all cities] <after founding a religion>","[+10]% [Science] [in all cities] <after enhancing a religion>","[+10]% [Culture] [in all cities] <after founding a religion>","[+10]% [Culture] [in all cities] <after enhancing a religion>","Free [Missionary] appears <upon declaring friendship>"],
+		"uniques": ["[+10]% [Science] [in all cities] <after founding a religion>","[+10]% [Science] [in all cities] <after enhancing a religion>",
+			    "[+10]% [Culture] [in all cities] <after founding a religion>","[+10]% [Culture] [in all cities] <after enhancing a religion>",
+			    "Free [Missionary] appears <upon declaring friendship>"],
 		
 		"outerColor": [181, 171, 31],
 		"innerColor": [179, 29, 49],
@@ -192,6 +198,44 @@
 		"uniques": ["[+5 Faith] from every [Fort] <when at war> ","[100]% of excess happiness converted to [Production] <upon declaring friendship> "],
 		"cities": ["Mugadishu","Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale","El Afweyn","Aynaba",
 			"Oog","Iskudar","Habariheshay"],
+      		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
+	},
+
+	{
+		"name": "Pueblo",
+		"leaderName": "Po'pe",
+		"adjective": ["Pueblo"],
+		"startBias": ["Desert"],
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "We shall roam into the wastes you call your nation and destroy your power.",
+		"attacked": "You disrespect our people and desercrate our works, we will show you justice!",
+		"defeated": "Why did the spirits abandon us? Our works shall crumble and fall into nothingness, are you pleased?",
+		"introduction": "The Puebla welcomes you to to my nation. I am Po'pe, leader of the grand deserts",
+
+
+		"neutralHello": "Welcome",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+		
+		"hateHello": "Who invited you here?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": ["Worthless..."],
+		"hateYes": ["Very well..."],
+
+		"tradeRequest": "Accept this deal if this benefits you.",
+
+		"outerColor": [210, 125, 40],
+		"innerColor": [175, 150, 60],
+		"uniqueName": "Oasisamerica",
+		"uniques": ["[+2 Food, +1 Production] from [Desert] tiles [in all cities] ","[+15]% Strength <for [Military] units> <when fighting in [Desert] tiles> "],
+		
+		"cities": ["Tua-Tah","Tamayame","Cochiti","Shiewhibak","Walatowa","Nambe","P'iwweltha ","Pojoaque","Katishtya","Pʼohwhogeh Ówîngeh","Tuf Shur Tia","Khaʼpʼoe Ówîngeh",
+			   "Taos","Tetsʼugeh Ówingeh","Tsi'ya","Ysleta Del Sur Pueblo","Anasazi","Mogollon","Hohokam","Tarahumara","Salado","Sinagua","Hopi","Tiwa","Kewa Pueblo",
+			   "Ohkay Owingeh","Zuni","Acoma"],
       		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
 	},
 	
