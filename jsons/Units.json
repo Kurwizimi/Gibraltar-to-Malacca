@@ -69,4 +69,15 @@
 		"obsolete": "Combustion",
 		"requiredResource": "Horses",
 	},
+
+		{
+		"name": "Lada'kwe",
+		"unitType": "Melee",
+		"uniqueTo": "Pueblo",
+		"replaces": "Warrior",
+		"strength": 20,
+		"obsolete": "Gunpowder"
+		"uniques":["Earn [150]% of killed [Wounded] unit's [Cost] as [Gold]"],
+		"promotions": ["Drill I"],
+	}
 ]
