@@ -73,4 +73,17 @@
 		"uniques": ["Must be on [Hill]","Obsolete with [Industrialization]"],
 		"requiredTech": "Masonry",
 	}
+
+	{
+		"name": "Karkhanas",
+		"replaces": "Workshop",
+		"uniqueTo": "The Mughals",
+		"maintenance": 2,
+		"production": 4,
+		"specialistSlots": {"Scientist": 1},
+		"hurryCostModifier": 30,
+		"percentStatBonus": {"production": 20},
+		"uniques": ["New [Military] units start with [15] Experience [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
 ]
