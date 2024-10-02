@@ -75,9 +75,10 @@
 		"unitType": "Melee",
 		"uniqueTo": "Pueblo",
 		"replaces": "Warrior",
-		"strength": 20,
+		"strength": 12,
+		"cost": 45,
+		"movement": 2,
 		"obsolete": "Gunpowder"
 		"uniques":["Earn [150]% of killed [Wounded] unit's [Cost] as [Gold]"],
-		"promotions": ["Drill I"],
 	}
 ]
