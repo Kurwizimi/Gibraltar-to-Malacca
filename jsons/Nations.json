@@ -238,5 +238,35 @@
 			   "Ohkay Owingeh","Zuni","Acoma"],
       		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
 	},
+
+	{
+		"name": "The Mughals",
+		"leaderName": "Shah Jahan",
+		"adjective": ["Mughal"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Time for you to recive the blessing of being part of our glorious empire!",
+		"attacked": "Our troops are ready to burn your cities to the ground.",
+		"defeated": "Our capital has been sacked, our art and culture has been burned to the ground, ... You are now the Emperor of the Mughals.",
+		"introduction": "Hello, We welcome you to our nation.",
+
+		"neutralHello": "what do you propose?",
+		"hateHello": "You are not worth my time.",
+
+		"tradeRequest": "This trade will benifit us both",
+
+		"outerColor": [0, 109, 33],
+		"innerColor": [223, 0, 0],
+		"favoredReligion": "Islam",
+		"uniqueName": "Architects of Wonders",
+		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <during a Golden Age> "],
+		"cities": ["Agra","Shahjahanabad","Lahore","Fatehpur Sikri","Sikandra,","Srinagar","Prayagraj","Jaunpur","Aurangabad","Peshawar","Farrukhnagar",
+			"Sheikhpura","Sukkur","Thatta","Taxila","Chittagong","Brahmanbaria","Noakhali","Sylhet","Narayanganj","Dinajpur","Khulna","Chapai",],
+      		"spyNames": ["Akbar", "Hasan", "Ghulam", "Taqir", "Salim", "Bijapur", "Babur", "Humayun", "Bariam"]
+	},
 	
 ]
