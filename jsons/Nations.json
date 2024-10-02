@@ -260,7 +260,7 @@
 		"tradeRequest": "This trade will benifit us both",
 
 		"outerColor": [0, 109, 33],
-		"innerColor": [223, 0, 0],
+		"innerColor": [255, 215, 0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Architects of Wonders",
 		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <during a Golden Age> "],
