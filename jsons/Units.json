@@ -91,7 +91,7 @@
 		"strength": 20,
 		"rangedStrength": 25,
 		"range": 2,
-		"cost": 140,
+		"cost": 185,
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
