@@ -61,4 +61,16 @@
 		"uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured","Requires at least [4] population"],
 		"requiredTech": "Bronze Working"
 	},
+
+	{
+		"name": "Cliff Dwellings",
+		"uniqueTo": "Pueblo",
+		"cost": 70,
+		"hurryCostModifier": 250,
+		"production": 3,
+		"faith": 2,
+		"food": 1,
+		"uniques": ["Must be on [Hill]","Obsolete with [Industrialization]"],
+		"requiredTech": "Masonry",
+	}
 ]
