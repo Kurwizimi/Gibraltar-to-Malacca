@@ -231,7 +231,7 @@
 		"outerColor": [175, 150, 60],
 		"innerColor": [65, 50, 15],
 		"uniqueName": "Oasisamerica",
-		"uniques": ["[+2 Food, +1 Production] from every {Desert}","[+15]% Strength <for [Military] units> <when fighting in [Desert] tiles> "],
+		"uniques": ["[+2 Food, +1 Production] from every [Desert]","[+15]% Strength <for [Military] units> <when fighting in [Desert] tiles> "],
 		
 		"cities": ["Tua-Tah","Tamayame","Cochiti","Shiewhibak","Walatowa","Nambe","P'iwweltha ","Pojoaque","Katishtya","Pʼohwhogeh Ówîngeh","Tuf Shur Tia","Khaʼpʼoe Ówîngeh",
 			   "Taos","Tetsʼugeh Ówingeh","Tsi'ya","Ysleta Del Sur Pueblo","Anasazi","Mogollon","Hohokam","Tarahumara","Salado","Sinagua","Hopi","Tiwa","Kewa Pueblo",
