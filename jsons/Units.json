@@ -99,4 +99,20 @@
 		"attackSound": "cannon"
 		"promotions": ["Shock I","Shock II"],
 	},
+
+	{
+		"name": "Pitati",
+		"unitType": "Ranged",
+		"uniqueTo": "Kush",
+		"replaces": "Archer",
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 12,
+		"range": 2,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"upgradesTo": "Composite Bowman",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Sentry"],
+	},
 ]
