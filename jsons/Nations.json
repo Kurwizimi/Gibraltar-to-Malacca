@@ -268,5 +268,46 @@
 			"Sheikhpura","Sukkur","Thatta","Taxila","Chittagong","Brahmanbaria","Noakhali","Sylhet","Narayanganj","Dinajpur","Khulna","Chapai",],
       		"spyNames": ["Akbar", "Hasan", "Ghulam", "Taqir", "Salim", "Bijapur", "Babur", "Humayun", "Bariam"]
 	},
+
+	{
+		"name": "Kush",
+		"leaderName": "Kashta",
+		"adjective": ["Kushite"],
+		"startBias": ["River"],
+		
+		"startIntroPart1": "Considered one of the three greatest kings of Burma, along with Anawrahta and Alaungpaya, Bayinnaung Kyawhtin Nawrahta was king of Toungoo Dynasty of Burma from 1550 to 1581. During his 31-year reign, which has been called 'the greatest explosion of human energy ever seen in Burma', Bayinnaung assembled the largest empire in the history of Southeast Asia, which included much of modern-day Burma, Chinese Shan states, Lan Na, Lan Xang, Manipur and Siam.",
+		
+		"declaringWar": "Weak nations like yours don't benefit true empires like mine. Your people will fair better with me.",
+		"attacked": "Foolish, out for blood, just like a starving dog.",
+		"defeated": "The Kush shall live forevermore! We have braved chllenges greater thahan your brutish army, and so, even in death, we shall be free!",
+		"introduction": "Welcome to my lands. I am King Kashta, leader of the Kush and its streams.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Your face sickens me.",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "May you respect these borders forever, or suffer the pain the Kush will bring onto you.",
+		"tradeRequest": "I will look forwards to your convoys arriving..",
+
+		"spyNames": ["Amanikhatashan","Amanislo","Khalese","Amanishakheto","Dedun","Piye","Shanakdakheto","Mashshouda","Kel","Barschanbu"],
+
+
+		"uniqueName": "The Edge of Great Empires",
+		"uniques": ["[+10]% [Gold] <for [10] turns> <upon declaring friendship>"
+			     ,"[+1] [Gold]  from [Mine] tiles [in all cities]"
+			     ,"[+2] [Production]  from [Iron] tiles [in all cities]"],
+		
+		"outerColor": [26, 32, 138],
+		"innerColor": [36, 158, 53],
+		"cities": ["Kerma","Meroe","Napata","Semna","El Kurru","Nuri","Kawa","Sedeinga","Heh",
+			"Pedeme","Faras","Shaat","Iken","Buhen","Dangeil","Miam","Tombos","Kurgus","Soleb",
+			"Wad ban Naqa","Debba","Bugdumbush","Baki","Amara","Aborepi","Ukma","Pedeme",]
+	},
 	
 ]
