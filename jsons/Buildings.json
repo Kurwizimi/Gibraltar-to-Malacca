@@ -86,4 +86,20 @@
 		"uniques": ["New [Military] units start with [15] Experience [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
+
+	{
+		"name": "Jebel Barkal",
+		"replaces": "Palace",
+		"uniqueTo": "Kush",
+		"production": 3,
+		"culture": 1,
+		"gold": 3,
+		"science": 3,
+		"uniques":   ["Provides [3] [Iron]",
+			    "[+1 Faith] [in all Cities] <during the [Classical era]>",
+			    "[+2 Faith] [in all Cities] <during the [Medieval era]>",
+			    "[+3 Faith] [in all Cities] <during the [Medieval era]>"
+		             "Indicates the capital city",],
+		
+	}
 ]
