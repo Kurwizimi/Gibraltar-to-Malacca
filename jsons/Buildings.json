@@ -98,8 +98,31 @@
 		"uniques":   ["Provides [3] [Iron]",
 			    "[+1 Faith] [in all Cities] <during the [Classical era]>",
 			    "[+2 Faith] [in all Cities] <during the [Medieval era]>",
-			    "[+3 Faith] [in all Cities] <during the [Medieval era]>"
+			    "[+3 Faith] [in all Cities] <during the [Medieval era]>",
 		             "Indicates the capital city"],
 		
-	}
+	},
+
+	{
+        "name": "Gobekli Tepe",
+        "isWonder": true,
+        "uniques": [ "[+1 Production] from [Pasture] tiles [in this city]",
+	             "[+1 Production] from [Quarry] tiles [in this city]",
+	             "[+1 Gold] from [Plantation] tiles [in this city]"],
+        "requiredTech": "Animal Husbandry",
+        "quote": "'Is Gobekli Tepe evidence of a lost advanced civilisation from the ice age, or is it shoking proof that acient people knew how to ...put rocks on top of each other?' - Milo Rossi"
+    },
+
+	{
+        "name": "Malwiya Minaret",
+        "isWonder": true,
+	"percentStatBonus": {"production": 20},
+        "uniques": [
+            "[+2 Faith] <in cities with a [Temple]>",
+	     "Gain a free [Mosque] [in this city]",
+            "Only available <after adopting [Piety]>"
+        ],
+        "requiredTech": "Metal Casting",
+        "quote": "'Al-Mutawakkil also built a great cathedral mosque and lavished enormous sums of money on it, making the minaret so high that the voices of the muezzins could be easily heard, and the minaret could be seen at a distance of many parasangs.' - Al-Baladhuri, Kitab Futuh al-Buldan"
+    },
 ]
