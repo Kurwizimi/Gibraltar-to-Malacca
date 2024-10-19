@@ -68,12 +68,15 @@
 
 	{
 		"name": "Cliff Dwellings",
+		"replaces": "Walls",
 		"uniqueTo": "Pueblo",
 		"cost": 70,
 		"hurryCostModifier": 250,
 		"production": 3,
 		"faith": 2,
 		"food": 1,
+		"cityStrength": 5,
+		"cityHealth": 50,
 		"uniques": ["Must be on [Hill]","Obsolete with [Industrialization]"],
 		"requiredTech": "Masonry",
 	}
