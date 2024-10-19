@@ -121,6 +121,16 @@
     },
 
 	{
+        "name": " Kowloon Walled City",
+        "isWonder": true,
+        "uniques": [ "[9] population [in this city]",
+	             "[-1 Happiness] per [3] population [in this city]",],
+        "requiredTech": "Electronics",
+        "quote": "'It's a heterogeneous space, a space where it is not easy to generalize, a space where it looks horrible but where so many people are trying to live a normal life. It is like Hong Kong itself.' - Leung Ping-kwan"
+    },
+
+
+	{
         "name": "The Motherland Calls",
         "isWonder": true,
         "uniques": [ "[+4 Happiness] [in this city]",
