@@ -41,11 +41,15 @@
 
 	{
 		"name": "Nahrawan Canal",
+		"replaces": "Granary",
 		"uniqueTo": "The Sassanid Empire",
 		"cost": 80,
 		"hurryCostModifier": 250,
-		"food": 3,
-		"uniques": ["[1] population in a random city","[+1 Food] from [Farm] tiles [in this city] <when not at war>"],
+		"food": 4,
+		"uniques": ["[1] population in a random city","[+1 Food] from [Farm] tiles [in this city] <when not at war>"
+			   ,"[+1 Food] from [Deer] tiles [in this city]"
+			   ,"[+1 Food] from [Banana] tiles [in this city]"
+			   ,"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Calendar",
 	}
 
@@ -110,7 +114,17 @@
 	             "[+1 Production] from [Quarry] tiles [in this city]",
 	             "[+1 Gold] from [Plantation] tiles [in this city]"],
         "requiredTech": "Animal Husbandry",
-        "quote": "'Is Gobekli Tepe evidence of a lost advanced civilisation from the ice age, or is it shoking proof that acient people knew how to ...put rocks on top of each other?' - Milo Rossi"
+        "quote": "'Is Gobekli Tepe evidence of a lost advanced civilisation from the ice age, or is it shocking proof that ancient people knew how to ...put rocks on top of each other?' - Milo Rossi"
+    },
+
+	{
+        "name": "The Motherland Calls",
+        "isWonder": true,
+        "uniques": [ "[+4 Happiness] [in this city]",
+	             "[+1 Happiness] per [3] population [in this city] <when not at war>",
+	             "[+20]% Production when constructing [Melee] units [in this city] <when at war>"],
+        "requiredTech": "Replaceable Parts",
+        "quote": "'...A memorial-monument in the city of Stalingrad commemorating victory over the German fascist force' - Council of Ministers"
     },
 
 	{
