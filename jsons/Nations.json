@@ -121,7 +121,8 @@
 		
 		"outerColor": [181, 171, 31],
 		"innerColor": [179, 29, 49],
-		"cities": ["Qurtubah","Gharnatah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"]
+		"cities": ["Qurtubah","Gharnatah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"
+		           ,"Teruel","Almeria","Leon","Zamora","Mida","Lugo","Alicante","Cadiz","Merida","Huelva","Ibiza","Las Palmas","Tenerife"]
 	},
 
 	{
