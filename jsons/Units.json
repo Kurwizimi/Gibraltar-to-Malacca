@@ -128,4 +128,18 @@
 		"obsolete": "Astronomy",
 		"uniques":["Cannot enter ocean tiles"]
 	}
+
+	{
+		"name": "Al Sultanah",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Oman",
+		"replaces": "Frigate",
+		"movement": 8,
+		"cost": 195,
+		"strength": 25,
+		"rangedStrength": 28,
+		"requiredTech": "Navigation",
+		"obsolete": "Electronics",
+		"uniques":["[+3] Sight"]
+	}
 ]
