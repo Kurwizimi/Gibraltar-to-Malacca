@@ -310,5 +310,46 @@
 			"Pedeme","Faras","Shaat","Iken","Buhen","Dangeil","Miam","Tombos","Kurgus","Soleb",
 			"Wad ban Naqa","Debba","Bugdumbush","Baki","Amara","Aborepi","Ukma","Pedeme"]
 	},
+
+		{
+		"name": "Phonecia",
+		"leaderName": "Hiram",
+		"adjective": ["Phonecian"],
+		"startBias": ["Coast"],
+		
+		"startIntroPart",
+		
+		"declaringWar": "There is now war in our hands. Look at the sea - it's now full of my ships.",
+		"attacked": "Are you a fool? Your city districts will understand the destruction of Yam and Moloch.",
+		"defeated": "One day you may see your capital bathed in flame. ...One day.",
+		"introduction": "Welcome, come and see the great Phoenician cities. Carry word of it back to your land, and to the rest of the world.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Why are you here? You are so poor you cant eevn afford to glance at our works!",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"Pathetic"],
+		"hateYes": ["I'm suprised you have the economy to withhold this deal."],
+		
+		"afterPeace": "Stick to the mountains, Phoenicia requests the sea.",
+		"tradeRequest": "Accept these gifts, they are a mere taste of the wealth of Phoenicia.",
+
+		"spyNames": ["Nikkal","Arishat","Yapachemou Abi","Abichemou","Yzebel","Qetesh","Hanno","Kusarit","Allatu","Dido"],
+
+
+		"uniqueName": "Colonies of the Mediterranean",
+		"uniques": ["[Melee] units gain the [Amphibious] promotion"
+			     ,"[1] Movement point cost to disembark <for [All] units>"
+			     ,"Comment [Can relocate their capital after researching Civil Service]"],
+		
+		"outerColor": [120, 60, 185],
+		"innerColor": [15, 110, 100],
+		"cities": ["Tyre","Byblos","Sidon","Beirut","Kition","Aynook","Leptis Magna","Quart-Hashdat","Ziz",
+			"Utica","Sabratha","Mtw","Lixus","Nora","Amrit","Oea","Gadir","Thapsus","Malaka",
+			"Hipponensis Sinus","Ibossim","Onoba","Mago","Sala","Sexi"]
+	},
 	
 ]
