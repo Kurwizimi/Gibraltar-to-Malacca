@@ -1,4 +1,7 @@
- {
+[
+
+ 
+{
         "name": "Frakincense", 
         "gold": 2,
         "resourceType": "Luxury",
@@ -9,3 +12,5 @@
         "gold": 2,
         "resourceType": "Luxury",
     },
+
+]
