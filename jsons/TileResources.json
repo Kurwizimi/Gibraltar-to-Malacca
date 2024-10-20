@@ -1,0 +1,11 @@
+ {
+        "name": "Frakincense", 
+        "gold": 2,
+        "resourceType": "Luxury"
+    },
+
+{
+        "name": "Myrrh", 
+        "gold": 2,
+        "resourceType": "Luxury"
+    },
