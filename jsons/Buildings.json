@@ -132,10 +132,10 @@
         },
 
 	{
-		"name": "Relocate Capital",
+		"name": "Land of Frankincense",
 		"cost": 1,
 		"uniqueTo": "Oman",
-		"uniques": [ "Will not be displayed in Civilopedia <hidden from users>",  "Only available <in cities with a [Palace]>",]
+		"uniques": [ "Will not be displayed in Civilopedia <hidden from users>",  "Only available <in cities with a [Palace]>","Provides [2] [Frankincense]","Provides [2] [Myrrh]"]
         },
 
 	{
