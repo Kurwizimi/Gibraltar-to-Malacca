@@ -115,4 +115,17 @@
 		"obsoleteTech": "Industrialization",
 		"promotions": ["Sentry"],
 	},
+
+	{
+		"name": "Bireme",
+		"unitType": "Melee Water",
+		"uniqueTo": "Phonecia",
+		"replaces": "Trireme",
+		"movement": 4,
+		"cost": 30,
+		"strength": 6,
+		"requiredTech": "Sailing",
+		"obsolete": "Astronomy",
+		"uniques":["Cannot enter ocean tiles"]
+	}
 ]
