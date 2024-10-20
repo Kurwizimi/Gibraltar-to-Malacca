@@ -111,6 +111,13 @@
 	},
 
 	{
+		"name": "Relocate Capital",
+		"cost": 15,
+		"hurryCostModifier": 15,
+		"uniques": ["Unavailable <in cities with a [Palace]> <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <after discovering [Civil Service]> <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [15] per owned city <hidden from users>", "Cost increases by [15] when built <hidden from users>"]
+        },
+
+	{
         "name": "Gobekli Tepe",
         "isWonder": true,
         "uniques": [ "[+1 Production] from [Pasture] tiles [in this city]",
@@ -124,7 +131,7 @@
         "name": " Kowloon Walled City",
         "isWonder": true,
         "uniques": [ "[9] population [in this city]",
-	             "[-1 Happiness] per [3] population [in this city]",],
+	             "[-1 Happiness] per [3] population [in this city]"],
         "requiredTech": "Electronics",
         "quote": "'It's a heterogeneous space, a space where it is not easy to generalize, a space where it looks horrible but where so many people are trying to live a normal life. It is like Hong Kong itself.' - Leung Ping-kwan"
     },
