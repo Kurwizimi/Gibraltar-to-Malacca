@@ -301,8 +301,8 @@
 
 		"uniqueName": "The Edge of Great Empires",
 		"uniques": ["[+10]% [Gold] <for [10] turns> <upon declaring friendship>"
-			     ,"[+1 Gold]  from [Mine] tiles [in all cities]"
-			     ,"[+2 Production]  from [Iron] tiles [in all cities]"],
+			     ,"[+1 Gold] from every [Mine]"
+			     ,"[+2 Production]  from every [Iron]"],
 		
 		"outerColor": [200, 180, 125],
 		"innerColor": [65, 50, 15],
@@ -343,7 +343,8 @@
 		"uniqueName": "Colonies of the Mediterranean",
 		"uniques": ["[Melee] units gain the [Amphibious] promotion"
 			     ,"[1] Movement point cost to disembark <for [All] units>"
-			     ,"Comment [Can relocate their capital after researching Civil Service]"],
+			     ,"Comment [Can relocate their capital after researching Civil Service]"
+		             ,"Comment [Note: Relocating the Capital more than once in a turn will break the game]"],
 		
 		"outerColor": [120, 60, 185],
 		"innerColor": [15, 110, 100],
