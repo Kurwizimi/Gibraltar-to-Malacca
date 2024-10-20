@@ -266,7 +266,7 @@
 		"uniqueName": "Architects of Wonders",
 		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <during a Golden Age> "],
 		"cities": ["Agra","Shahjahanabad","Lahore","Fatehpur Sikri","Sikandra,","Srinagar","Prayagraj","Jaunpur","Aurangabad","Peshawar","Farrukhnagar",
-			"Sheikhpura","Sukkur","Thatta","Taxila","Chittagong","Brahmanbaria","Noakhali","Sylhet","Narayanganj","Dinajpur","Khulna","Chapai",],
+			"Sheikhpura","Sukkur","Thatta","Taxila","Chittagong","Brahmanbaria","Noakhali","Sylhet","Narayanganj","Dinajpur","Khulna","Chapai"],
       		"spyNames": ["Akbar", "Hasan", "Ghulam", "Taqir", "Salim", "Bijapur", "Babur", "Humayun", "Bariam"]
 	},
 
