@@ -304,8 +304,8 @@
 			     ,"[+1 Gold] from every [Mine]"
 			     ,"[+2 Production]  from every [Iron]"],
 		
-		"outerColor": [200, 180, 125],
-		"innerColor": [65, 50, 15],
+		"outerColor": [30, 45, 35],
+		"innerColor": [200, 180, 125],
 		"cities": ["Kerma","Meroe","Napata","Semna","El Kurru","Nuri","Kawa","Sedeinga","Heh",
 			"Pedeme","Faras","Shaat","Iken","Buhen","Dangeil","Miam","Tombos","Kurgus","Soleb",
 			"Wad ban Naqa","Debba","Bugdumbush","Baki","Amara","Aborepi","Ukma","Pedeme"]
