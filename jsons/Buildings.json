@@ -98,6 +98,7 @@
 		"name": "Jebel Barkal",
 		"replaces": "Palace",
 		"uniqueTo": "Kush",
+		"cost": 1,
 		"production": 3,
 		"culture": 1,
 		"gold": 3,
