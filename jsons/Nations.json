@@ -301,8 +301,7 @@
 
 		"uniqueName": "The Edge of Great Empires",
 		"uniques": ["[+10]% [Gold] <for [10] turns> <upon declaring friendship>"
-			     ,"[+1 Gold] from every [Mine]"
-			     ,"[+2 Production]  from every [Iron]"],
+			     ,"[+1 Gold,+1 Production] from every [Mine]"],
 		
 		"outerColor": [30, 45, 35],
 		"innerColor": [200, 180, 125],
@@ -386,8 +385,8 @@
 		"uniques": ["[+2 Faith] from each Trade Route"
 			   ,"Comment [2 free copies of Frankincense and Myrrh luxuries in Capital]"],
 		
-		"outerColor": [120, 60, 185],
-		"innerColor": [15, 110, 100],
+		"outerColor": [135, 131, 0],
+		"innerColor": [25, 50, 75],
 		"cities": ["Muscat","Salalah","Nizwa","Sur","Ibra","Bahla","Rustaq","Barka","Muttrah","Sohar",
                            "Sahan","Samail","Khasab","Raysut","Jabrin","Al Hamra","Seeb","Duqm","Thumrait","Shinas",
                            "Manah","Madha","Zanzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
