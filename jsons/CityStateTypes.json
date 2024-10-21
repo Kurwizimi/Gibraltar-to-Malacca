@@ -16,6 +16,25 @@
             "[+21 Production] [in all cities] <starting from the [Industrial era]>"
         ],
         "color": [95, 35 15]
+    },
+
+  {
+        "name": "Science",
+        "friendBonusUniques": [
+            "[+3 Science]  <before the [Classical era]>",
+            "[+6 Science]  <starting from the [Classical era]> <before the [Medieval era]>",
+            "[+9 Science]  <starting from the [Medieval era]> <before the [Renaissance era]>",
+            "[+12 Science]  <starting from the [Renaissance era]> <before the [Industrial era]>",
+            "[+15 Science] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+5 Science] <before the [Classical era]>",
+            "[+9 Science]  <starting from the [Classical era]> <before the [Medieval era]>",
+            "[+13 Science]  <starting from the [Medieval era]> <before the [Renaissance era]>",
+            "[+17 Science]  <starting from the [Renaissance era]> <before the [Industrial era]>",
+            "[+21 Science]  <starting from the [Industrial era]>"
+        ],
+        "color": [50, 140, 220]
     }
 
 
