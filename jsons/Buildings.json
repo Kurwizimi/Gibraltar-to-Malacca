@@ -139,6 +139,27 @@
 		"uniques": [ "Will not be displayed in Civilopedia <hidden from users>",  "Only available <in cities with a [Palace]>","Provides [2] [Frankincense]","Provides [2] [Myrrh]"]
         },
 
+{
+		"name": "FalajAquduct",
+		"replaces": "Granary",
+		"uniqueTo": "Oman",
+		"cost": 85,
+		"hurryCostModifier": 4,
+		"food": 2,
+		"uniques": ["[60]% Food is carried over after population increases [in this city]"
+		           ,"[+1 Food] from [Farm] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>"
+			   ,"[+1 Food] from [Plantation] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>"],
+		"requiredTech": "Engineering",
+	}
+
+
+
+
+
+
+
+
+	//Wonders
 	{
         "name": "Gobekli Tepe",
         "isWonder": true,
