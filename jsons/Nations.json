@@ -301,7 +301,7 @@
 
 		"uniqueName": "The Edge of Great Empires",
 		"uniques": ["[+10]% [Gold] <for [10] turns> <upon declaring friendship>"
-			     ,"[+1 Gold,+1 Production] from every [Mine]"],
+			     ,"[+2 Gold] from every [Mine]"],
 		
 		"outerColor": [30, 45, 35],
 		"innerColor": [200, 180, 125],
