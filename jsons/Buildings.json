@@ -140,8 +140,8 @@
         },
 
 {
-		"name": "FalajAquduct",
-		"replaces": "Granary",
+		"name": "Falaj",
+		"replaces": "Aqueduct",
 		"uniqueTo": "Oman",
 		"cost": 85,
 		"hurryCostModifier": 4,
