@@ -391,5 +391,94 @@
                            "Sahan","Samail","Khasab","Raysut","Jabrin","Al Hamra","Seeb","Duqm","Thumrait","Shinas",
                            "Manah","Madha","Zanzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
 	},
+
+
+
+
+
+
+
+
+
+
+	//City States
+
+	{
+		"name": "Baku",
+		"adjective": ["Azerbaijani"],
+		"cityStateType": "Production",
+
+		"declaringWar": "The Azerbaijani army shall humiliate your pathetic military.",
+		"attacked": "Your conquest shall end at the gates of Baku!",
+		"defeated": "We stood alone in our war, and now we shall be ruled over forevermore. Congratulations, conquerer.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [55, 89, 148],
+		"cities": ["Baku"]
+	},
+
+	{
+		"name": "Gdansk",
+		"adjective": ["Polish"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Our cavalry shall trample all over you.",
+		"attacked": "The soverignty of the Gdansk shall remain, no matter what!",
+		"defeated": "The Polish are now at your command, great conquerer.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 117, 138],
+		"cities": ["Gdansk"]
+	},
+
+	{
+		"name": "Dilmun",
+		"adjective": ["Eastern Semetic"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Our riches shall fuel the army that will bring you to the ground.",
+		"attacked": "Maybe you should think more carefully about the reprecussions of your actions",
+		"defeated": "All nations are not destined to live forever, I guess.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [61, 77, 49],
+		"cities": ["Dilmun"]
+	},
+
+	{
+		"name": "Gaochang",
+		"adjective": ["Uyghur"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Noone shall conquer the Oasis of the desert",
+		"attacked": "The deserts that we hold has trained our people to be grear warriors. Now they shall be put to their grand test",
+		"defeated": "How can such evil triumph the good people of the Oasis? How...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [9, 50, 122],
+		"cities": ["Gaochang"]
+	},
+
+	{
+		"name": "Wei",
+		"adjective": ["Gaoche"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Our cavalry shall trample over your troops.",
+		"attacked": "Ha! The hordes of our troops shall devestate your lands!",
+		"defeated": "Why have my people left me? Why have they betrayed me to join this tyrant?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [125, 61, 24],
+		"cities": ["Wei"]
+	},
+
+	{
+		"name": "Palmyra",
+		"adjective": ["Palmyrenes"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Our men shall go onwards, to victory!",
+		"attacked": "You will not pry our great wealth from our hands without a fight!",
+		"defeated": "The works of Palmyra will crumbe ino ruin, and we shall be erased from history.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [191, 129, 94],
+		"cities": ["Palmyra"]
+	},
 	
 ]
