@@ -3,13 +3,13 @@
  
 {
         "name": "Frankincense", 
-        "gold": 2,
+        "gold": 1,
         "resourceType": "Luxury",
     },
 
 {
         "name": "Myrrh", 
-        "gold": 2,
+        "gold": 1,
         "resourceType": "Luxury",
     },
 
