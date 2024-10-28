@@ -480,5 +480,18 @@
 		"innerColor": [191, 129, 94],
 		"cities": ["Palmyra"]
 	},
+
+	{
+		"name": "Baikonur",
+		"adjective": ["Baikonur"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Our technology shall triumph over your backwards ways.",
+		"attacked": "You will not take our research without a fight",
+		"defeated": "One day I hope my people shall escape to space so that they are safe from the hell you have created on this planet.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52, 21, 189],
+		"cities": ["Baikonur"]
+	},
 	
 ]
