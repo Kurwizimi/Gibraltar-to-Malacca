@@ -493,5 +493,18 @@
 		"innerColor": [52, 21, 189],
 		"cities": ["Baikonur"]
 	},
+
+	{
+		"name": "Gurganj",
+		"adjective": ["Gurganj"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "Your disturbances have been annoying us for years. You shall pay for this!",
+		"attacked": "We have faced worse sieges thn yours. ",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52, 21, 189],
+		"cities": ["Gurganj"]
+	},
 	
 ]
