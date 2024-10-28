@@ -484,7 +484,7 @@
 	{
 		"name": "Baikonur",
 		"adjective": ["Baikonur"],
-		"cityStateType": "Production",
+		"cityStateType": "Scientific",
 
 		"declaringWar": "Our technology shall triumph over your backwards ways.",
 		"attacked": "You will not take our research without a fight",
