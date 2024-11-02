@@ -428,8 +428,8 @@
 		
 		"outerColor": [70, 95, 179],
 		"innerColor": [39, 84, 69],
-		"cities": ["Muscat","Salalah","Nizwa","Sur","Ibra","Bahla","Rustaq","Barka","Muttrah","Sohar",
-                           "Sahan","Samail","Khasab","Raysut","Jabrin","Al Hamra","Seeb","Duqm","Thumrait","Shinas",
+		"cities": ["Manilla","Cebu","Quezon","Tacloban","Caloocan","Davao","Baguio","Zamboanga","Iloilo","Bacolod",
+                           "Tagaytay","San Pablo","Lipa","Pasay","Ormoc","Naga","Butuan","Roxas","Gingoog","San Carlos",
                            "Manah","Madha","Zanzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
 	},
 
