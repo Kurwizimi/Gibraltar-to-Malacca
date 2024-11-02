@@ -500,7 +500,7 @@
 	{
 		"name": "Gdansk",
 		"adjective": ["Polish"],
-		"cityStateType": "Production",
+		"cityStateType": "Gdansk Treaties",
 
 		"declaringWar": "Our cavalry shall trample all over you.",
 		"attacked": "The soverignty of the Gdansk shall remain, no matter what!",
