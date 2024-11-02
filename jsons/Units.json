@@ -72,7 +72,7 @@
 
 		{
 		"name": "Lada'kwe",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Pueblo",
 		"replaces": "Warrior",
 		"strength": 12,
@@ -141,5 +141,18 @@
 		"requiredTech": "Navigation",
 		"obsolete": "Electronics",
 		"uniques":["[+3] Sight"]
+	}
+
+
+	{
+		"name": "Katipunero",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Phillipines",
+		"replaces": "Rifleman",
+		"strength": 39,
+		"cost": 225,
+		"movement": 2,
+		"obsolete": "Replaceable Parts"
+		"uniques":["[+50]% Strength decreasing with distance from the capital"],
 	}
 ]
