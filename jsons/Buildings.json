@@ -139,7 +139,7 @@
 		"uniques": [ "Will not be displayed in Civilopedia <hidden from users>",  "Only available <in cities with a [Palace]>","Provides [2] [Frankincense]","Provides [2] [Myrrh]"]
         },
 
-{
+        {
 		"name": "Falaj",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Oman",
@@ -151,6 +151,19 @@
 			   ,"[+1 Food] from [Plantation] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>"],
 		"requiredTech": "Engineering",
 	}
+
+	{
+              	"name": "Palengke",
+		"replaces": "Market",
+		"uniqueTo": "The Phillipines",
+      		"gold": 1,
+    	   	"specialistSlots": {"Merchant": 1},
+      	  	"hurryCostModifier": 25,
+     	   	"percentStatBonus": {"gold": 25},
+        	"uniques": ["[+3 Food] from every specialist [in this city]"
+	           	   ,"[+2 Food] from each Trade Route"],
+        	"requiredTech": "Currency"
+  	},
 
 
 
