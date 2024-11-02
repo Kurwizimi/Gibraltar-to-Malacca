@@ -1,9 +1,10 @@
 [
-{
+	{
 		"name": "Karez Builders",
 		"uniques": ["Can build [Karez] improvements on tiles"],
 		"row": 140,
-        "column": 0
+      		"column": 0,
+	}
 
 
 
@@ -14,4 +15,4 @@
 
 
 
-	],
+],
