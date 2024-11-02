@@ -513,7 +513,7 @@
 	{
 		"name": "Dilmun",
 		"adjective": ["Eastern Semetic"],
-		"cityStateType": "Production",
+		"cityStateType": "Dilmun Hub",
 
 		"declaringWar": "Our riches shall fuel the army that will bring you to the ground.",
 		"attacked": "Maybe you should think more carefully about the reprecussions of your actions",
