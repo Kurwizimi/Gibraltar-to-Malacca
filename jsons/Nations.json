@@ -426,8 +426,8 @@
 			   ,"May buy [Melee] units with [Faith] [in all cities]"
 		           ,"Earn [200]% of the damage done to [Melee Water] units as [Faith]"],
 		
-		"outerColor": [135, 131, 0],
-		"innerColor": [25, 50, 75],
+		"outerColor": [70, 95, 179],
+		"innerColor": [39, 84, 69],
 		"cities": ["Muscat","Salalah","Nizwa","Sur","Ibra","Bahla","Rustaq","Barka","Muttrah","Sohar",
                            "Sahan","Samail","Khasab","Raysut","Jabrin","Al Hamra","Seeb","Duqm","Thumrait","Shinas",
                            "Manah","Madha","Zanzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
