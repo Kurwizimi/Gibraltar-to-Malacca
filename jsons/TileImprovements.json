@@ -1,0 +1,19 @@
+[
+  {
+        "name": "Karez",
+        "terrainsCanBeBuiltOn": ["River"],
+        "food": 2,
+        "production": 1,
+        "turnsToBuild": 7,
+        "uniques": ["[+2 Production] for each adjacent [Mountain]",
+                    "[+2 Production] for each adjacent [Oasis]",
+                    "Cannot be built on [resource] tiles",
+                    "Pillaging this improvement yields approximately [+20 Gold]"],
+    },
+
+
+
+
+
+
+]
