@@ -429,9 +429,49 @@
 		"outerColor": [70, 95, 179],
 		"innerColor": [39, 84, 69],
 		"cities": ["Manilla","Cebu","Quezon","Tacloban","Caloocan","Davao","Baguio","Zamboanga","Iloilo","Bacolod",
-                           "Tagaytay","San Pablo","Lipa","Pasay","Ormoc","Naga","Butuan","Roxas","Gingoog","San Carlos",
-                           "Manah","Madha","Zanzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
+                           "Tagaytay","San Pablo","Lipa","Pasay","Ormoc","Naga","Butuan","Roxas","Gingoog","San Carlos",]
 	},
+
+	{
+		"name": "Benin",
+		"leaderName": "Ewuare",
+		"adjective": ["Edo"],
+		"startBias": ["River"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "Why must you sell yourselves into slavery to toil for the benefit of the sinful? I shall bring the light of God to your heretical lands!",
+		"attacked": "You dare disrespect our independence? To expect such submission from us is sheer stupidity.",
+		"defeated": "Curse your imperialistic ways! When God will judge you, you shall not be spared from the flames of Hell!",
+		"introduction": "I welcome you to the Phillipines, nation of the followers of Muhammad and Christ, defenders of faith.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This war has only had the loss of a year's harvest for you. A price to pay for liberty, don't you think?",
+		"tradeRequest": "The fruits of our empire have the honour of being offered to you, at a fair price ofcourse.",
+
+		"spyNames": ["Alon","Ligaya","Taya","Baiyani","Dalisay","Biwata","Amiyan","Kalangitan","Jose","Corazon"],
+
+
+		"uniqueName": "Shield of the Warrior King",
+		"uniques": ["[+1 Faith, +1 Culture] from all [Faith] buildings"
+			   ,"May buy [Melee] units with [Faith] [in all cities]"
+		           ,"Earn [200]% of the damage done to [Melee Water] units as [Faith]"],
+		
+		"outerColor": [70, 95, 179],
+		"innerColor": [39, 84, 69],
+		"cities": ["Manilla","Cebu","Quezon","Tacloban","Caloocan","Davao","Baguio","Zamboanga","Iloilo","Bacolod",
+                           "Tagaytay","San Pablo","Lipa","Pasay","Ormoc","Naga","Butuan","Roxas","Gingoog","San Carlos",]
+	},
+
 
 
 
