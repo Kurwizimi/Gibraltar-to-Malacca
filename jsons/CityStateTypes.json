@@ -77,7 +77,7 @@
 
 
     {
-        "name": "Gilmun Hub",
+        "name": "Dilmun Hub",
         "friendBonusUniques": [
             "[+3 Production] [in all cities] <before the [Classical era]>",
             "[+6 Production] [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
@@ -104,7 +104,7 @@
             "[+9 Production] [in all cities] <starting from the [Medieval era]> <before the [Renaissance era]>",
             "[+12 Production] [in all cities] <starting from the [Renaissance era]> <before the [Industrial era]>",
             "[+15 Production] [in all cities] <starting from the [Industrial era]>",
-            "[Worker] units lose the [Karez Builders] promotion" ],
+            "[Civilian] units lose the [Karez Builders] promotion" ],
         "allyBonusUniques": [
             "[+5 Production] [in all cities] <before the [Classical era]>",
             "[+9 Production] [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
