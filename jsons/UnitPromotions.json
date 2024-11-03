@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Karez Builders",
-		"uniques": ["Can build [Karez] improvements on tiles <removing the [Karez Builders] promotion/status>"],
+		"uniques": ["Can instantly construct a [Karez] improvement <removing the [Karez Builders] promotion/status>"],
 		"row": 140,
       		"column": 0,
 	}
