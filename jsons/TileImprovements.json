@@ -1,7 +1,7 @@
 [
   {
         "name": "Karez",
-        "terrainsCanBeBuiltOn": ["River"],
+        "terrainsCanBeBuiltOn": ["River","Desert"],
         "food": 2,
         "production": 1,
         "turnsToBuild": 7,
