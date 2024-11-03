@@ -53,8 +53,7 @@
             "[+21 Production] [in all cities] <starting from the [Industrial era]>",
             "[+1 Science, +1 Production] from every [Mine] <with [Iron]>",
             "[+1 Science, +1 Production] from every [Mine] <with [Aluminum]>",
-            "[+1 Science, +1 Production] from every [Oil Well]",
-            "[+1 Science, +1 Production] from every [Mine] <with [Urainium]>"],
+            "[+1 Science, +1 Production] from every [Oil Well]"],
         "color": [95, 35, 15]
     },
 
