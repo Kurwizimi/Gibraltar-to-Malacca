@@ -5,8 +5,9 @@
 		"uniqueTo": "Burma",
 		"replaces": "Cavalry",
 		"movement": 4,
-		"strength": 30,
-		"cost": 200,
+		"strength": 29,
+		"cost": 190,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Militery Science]"]
 		"obsolete": "Combustion"
 		"requiredTech": "Printing Press",
 		"requiredResource": "Horses",
