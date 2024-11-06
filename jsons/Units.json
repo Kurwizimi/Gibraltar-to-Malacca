@@ -160,6 +160,7 @@
 	{
     	    	"name": "Isienmwenro",
       		"unitType": "Sword",
+		"uniqueTo": "Benin",
 		"replaces": "Pikeman",
         	"movement": 3,
         	"strength": 16,
