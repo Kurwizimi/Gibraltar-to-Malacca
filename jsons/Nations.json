@@ -473,6 +473,47 @@
 			  ,"Ososo","Ibillo","Djougou","Abomey","Bohicon","Fugar" ,"Okpekpe","Igueben","Akure"]
 	},
 
+	{
+		"name": "Burgundy",
+		"leaderName": "Philip III",
+		"adjective": ["Burgundian"],
+		"startBias": ["[Avoid] Coast"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "You scatter your troops too far apart, and Burgundy shall take advantage of that.",
+		"attacked": "Our love of the arts may seem that we are weak, but the Duchy shall remain!",
+		"defeated": "The beauty of Burgundy shall be split between warring powers, a tragic fate.",
+		"introduction": "Ah, yes. I thought I heard someone wandering around my court. I, Philip III, welcome to the Duchy of Burgundy.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "I hope our vassals shall now remain with their rightful rulers.",
+		"tradeRequest": "Artisans across Burgundy present to you their works.",
+
+		"spyNames": ["Joromi","Abebe","Abeh","Abiemwense","Asoro","Irowa","Niyen","Odije","Okiri","Yuki"],
+
+
+		"uniqueName": "Northern Enlightenment",
+		"uniques": ["Allied City-States provide [Culture] equal to [+20]% of what they produce for themselves"
+		           ,"Free Great Person <upon declaring friendship> <with [25]% chance>"],
+		
+		"outerColor": [145, 130, 130],
+		"innerColor": [128,0,32],
+		"cities": ["Dijon","Ghent","Arras","Sant-Pol","Nevers","Semur","Chalon","Beaune","Saint-Claude","Amiens"
+			  ,"Nesle","Ham","St-Quentin","Guinegate","Namur","Bergen op Zoom","Chimay","Eu","Bourbon-Lancy","Charolles"
+			  ,"Luxeuil","Vesoul","Picquigny","Aumale","Genappe","Horne"]
+	},
+
+
 
 
 
