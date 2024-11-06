@@ -175,6 +175,7 @@
 	 {
 		"name": "Herald",
       		"unitType": "Civilian",
+		 "uniqueTo": "Burgundy",
 		"replaces": "Great Merchant",
 		"movement": 4
         	"uniques": [	"Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
