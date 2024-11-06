@@ -440,10 +440,10 @@
 		
 		"startIntroPart": "",
 		
-		"declaringWar": "Why must you sell yourselves into slavery to toil for the benefit of the sinful? I shall bring the light of God to your heretical lands!",
-		"attacked": "You dare disrespect our independence? To expect such submission from us is sheer stupidity.",
-		"defeated": "Curse your imperialistic ways! When God will judge you, you shall not be spared from the flames of Hell!",
-		"introduction": "I welcome you to the Phillipines, nation of the followers of Muhammad and Christ, defenders of faith.",
+		"declaringWar": "Come men, lets plunder this petty kings land!",
+		"attacked": "Charging head-on to our fortifications? You are more stupid than you look!",
+		"defeated": "The bronze the Edo forged shall be remembered forevermore, but your grip on Benin shall loosen eventually!",
+		"introduction": "I am The great Oba Ewuare of Benin, leader of the fortified walls of our magnificent capital.",
 		
 		"neutralHello": "I hear you.",
 		"neutralLetsHearIt": ["Go on."],
@@ -455,8 +455,8 @@
 		"hateNo": [,"You are worthless"],
 		"hateYes": ["Maybe just this once..."],
 		
-		"afterPeace": "This war has only had the loss of a year's harvest for you. A price to pay for liberty, don't you think?",
-		"tradeRequest": "The fruits of our empire have the honour of being offered to you, at a fair price ofcourse.",
+		"afterPeace": "The walls we forge today shall be remembered.",
+		"tradeRequest": "Artisans across Benin present to you their works.",
 
 		"spyNames": ["Alon","Ligaya","Taya","Baiyani","Dalisay","Biwata","Amiyan","Kalangitan","Jose","Corazon"],
 
@@ -468,8 +468,9 @@
 		
 		"outerColor": [70, 95, 179],
 		"innerColor": [39, 84, 69],
-		"cities": ["Manilla","Cebu","Quezon","Tacloban","Caloocan","Davao","Baguio","Zamboanga","Iloilo","Bacolod",
-                           "Tagaytay","San Pablo","Lipa","Pasay","Ormoc","Naga","Butuan","Roxas","Gingoog","San Carlos"]
+		"cities": ["Ubini","Udo","Uromi","Akure","Lagos","Ibadan","Ife","Ado-Ekiti","Edo","Parakou"
+			  ,"Cotonou","Natitingou","Afuze","Auchi","Ekpoma","Ewu","Erruwa","Ubiaja","Ukhun","Agnebode"
+			  ,"Ososo","Ibillo","Djougou","Abomey","Bohicon","Fugar" ,"Okpekpe","Igueben","Akure"]
 	},
 
 
