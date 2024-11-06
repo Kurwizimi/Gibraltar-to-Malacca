@@ -466,8 +466,8 @@
 			   ,"May buy [Melee] units with [Faith] [in all cities]"
 		           ,"Earn [200]% of the damage done to [Melee Water] units as [Faith]"],
 		
-		"outerColor": [70, 95, 179],
-		"innerColor": [39, 84, 69],
+		"outerColor": [170, 60, 80],
+		"innerColor": [180, 170, 140],
 		"cities": ["Ubini","Udo","Uromi","Akure","Lagos","Ibadan","Ife","Ado-Ekiti","Edo","Parakou"
 			  ,"Cotonou","Natitingou","Afuze","Auchi","Ekpoma","Ewu","Erruwa","Ubiaja","Ukhun","Agnebode"
 			  ,"Ososo","Ibillo","Djougou","Abomey","Bohicon","Fugar" ,"Okpekpe","Igueben","Akure"]
