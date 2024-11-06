@@ -156,4 +156,18 @@
 		"obsolete": "Replaceable Parts"
 		"uniques":["[+50]% Strength decreasing with distance from the capital"],
 	}
+
+	{
+    	    	"name": "Isienmwenro",
+      		"unitType": "Sword",
+		"replaces": "Pikeman",
+        	"movement": 3,
+        	"strength": 16,
+        	"cost": 90,
+        	"requiredTech": "Civil Service",
+        	"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% to Flank Attack bonuses","Ignores Zone of Control"],
+        	"upgradesTo": "Lancer",
+        	"obsoleteTech": "Metallurgy",
+        	"attackSound": "metalhit"
+   	 },
 ]
