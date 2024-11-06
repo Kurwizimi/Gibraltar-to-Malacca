@@ -165,6 +165,18 @@
         	"requiredTech": "Currency"
   	},
 
+	{
+       		"name": "Cloth Hall",
+		"replaces": "Market",
+		"uniqueTo": "Burgundy",
+        	"gold": 1,
+		"culture": 3,
+        	"specialistSlots": {"Merchant": 1},
+        	"hurryCostModifier": 25,
+        	"percentStatBonus": {"gold": 50},
+       		"requiredTech": "Currency"
+    },
+
 
 
 
