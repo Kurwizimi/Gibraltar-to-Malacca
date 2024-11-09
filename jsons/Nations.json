@@ -170,6 +170,7 @@
 		"leaderName": "Sayyid Muhammad Abdullah Hasan",
 		"adjective": ["Somali"],
 		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -357,6 +358,7 @@
 		"leaderName": "Said bin Sultan",
 		"adjective": ["Omani"],
 		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
 		
 		"startIntroPart": "",
 		
@@ -478,6 +480,7 @@
 		"leaderName": "Philip III",
 		"adjective": ["Burgundian"],
 		"startBias": ["[Avoid] Coast"],
+		"favoredReligion":"Christianity",
 		
 		"startIntroPart": "",
 		
@@ -519,6 +522,7 @@
 		"leaderName": "Æthelstan",
 		"adjective": ["Anglo-Saxon"],
 		"startBias": ["Forest"],
+		"favoredReligion":"Christianity",
 		
 		"startIntroPart": "",
 		
