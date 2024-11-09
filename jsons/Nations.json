@@ -37,9 +37,8 @@
 		
 		"outerColor": [26, 32, 138],
 		"innerColor": [36, 158, 53],
-		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggyi","Bago","Monywa","Myitkyina","Pathein",
-			"Sittwe","Pyay","Pakokku","Myeik","Sandoway","Ingapu","Bassein","Prome","Martaban","Toungoo",
-			"Moulmein"]
+		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggyi","Bago","Monywa","Myitkyina","Pathein","Sittwe",
+			   "Pyay","Pakokku","Myeik","Sandoway","Ingapu","Bassein","Prome","Martaban","Toungoo","Moulmein"]
 	},
 
 	{
@@ -79,8 +78,8 @@
 		
 		"outerColor": [8, 91, 163],
 		"innerColor": [204, 149, 39],
-		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi",
-			"Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro"]
+		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi","Faza",
+			   "Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro"]
 	},
 
 
@@ -121,8 +120,9 @@
 		
 		"outerColor": [181, 171, 31],
 		"innerColor": [179, 29, 49],
-		"cities": ["Qurtubah","Gharnatah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona"
-		           ,"Teruel","Almeria","Leon","Zamora","Mida","Lugo","Alicante","Cadiz","Merida","Huelva","Ibiza","Las Palmas","Tenerife"]
+		"cities": ["Qurtubah","Gharnatah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona",
+		           "Teruel","Almeria","Leon","Zamora","Mida","Lugo","Alicante","Cadiz","Merida","Huelva",
+			   "Ibiza","Las Palmas","Tenerife"]
 	},
 
 	{
@@ -160,9 +160,8 @@
 		
 		"outerColor": [104, 7, 145],
 		"innerColor": [200, 10, 25],
-		"cities": ["Ctesiphon","Sarpol-e Zahab‎ ","Barda","Amghishiya","Izadkhast","Istakhr","Pushang","Ubulla","Valashabad",
-			"Abarsas","Gundeshapur","Peroz-Shapur","Kashkar","Merv","Onoguris","Ganzak","Abiward","Hdatta","Nehardea",
-			"Weh Antiok Khosrow"]
+		"cities": ["Ctesiphon","Sarpol-e Zahab‎ ","Barda","Amghishiya","Izadkhast","Istakhr","Pushang","Ubulla","Valashabad","Abarsas",
+			   "Gundeshapur","Peroz-Shapur","Kashkar","Merv","Onoguris","Ganzak","Abiward","Hdatta","Nehardea","Weh Antiok Khosrow"]
 	},
 	
 	{
@@ -192,14 +191,15 @@
 		"hateYes": ["Very well..."],
 
 		"tradeRequest": "Please accept this deal, it is the best we can offer",
-
-		"outerColor": [40, 200, 200],
-		"innerColor": [148, 25, 6],
-		"favoredReligion": "Islam",
+		
 		"uniqueName": "Spectre of Somaliland",
 		"uniques": ["[+5 Faith] from every [Fort] <when at war> ","[100]% of excess happiness converted to [Production] <upon declaring friendship> "],
-		"cities": ["Mugadishu","Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale","El Afweyn","Aynaba",
-			"Oog","Iskudar","Habariheshay"],
+		
+		"outerColor": [40, 200, 200],
+		"innerColor": [148, 25, 6],
+		"cities": ["Mugadishu","Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale",
+			   "El Afweyn","Aynaba","Oog","Iskudar","Habariheshay"],
+		
       		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
 	},
 
@@ -230,14 +230,15 @@
 
 		"tradeRequest": "Accept this deal if this benefits you.",
 
-		"outerColor": [175, 150, 60],
-		"innerColor": [65, 50, 15],
 		"uniqueName": "Oasisamerica",
 		"uniques": ["[+2 Food, +1 Production] from every [Desert]","[+15]% Strength <for [Military] units> <when fighting in [Desert] tiles> "],
 		
-		"cities": ["Tua-Tah","Tamayame","Cochiti","Shiewhibak","Walatowa","Nambe","P'iwweltha ","Pojoaque","Katishtya","Pʼohwhogeh Ówîngeh","Tuf Shur Tia","Khaʼpʼoe Ówîngeh",
-			   "Taos","Tetsʼugeh Ówingeh","Tsi'ya","Ysleta Del Sur Pueblo","Anasazi","Mogollon","Hohokam","Tarahumara","Salado","Sinagua","Hopi","Tiwa","Kewa Pueblo",
-			   "Ohkay Owingeh","Zuni","Acoma"],
+		"outerColor": [175, 150, 60],
+		"innerColor": [65, 50, 15],
+		"cities": ["Tua-Tah","Tamayame","Cochiti","Shiewhibak","Walatowa","Nambe","P'iwweltha ","Pojoaque","Katishtya","Pʼohwhogeh Ówîngeh",
+			   "Tuf Shur Tia","Khaʼpʼoe Ówîngeh", "Taos","Tetsʼugeh Ówingeh","Tsi'ya","Ysleta Del Sur Pueblo","Anasazi","Mogollon","Hohokam","Tarahumara",
+			   "Salado","Sinagua","Hopi","Tiwa","Kewa Pueblo", "Ohkay Owingeh","Zuni","Acoma"],
+		
       		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
 	},
 
@@ -260,14 +261,16 @@
 		"hateHello": "You are not worth my time.",
 
 		"tradeRequest": "This trade will benifit us both",
-
-		"outerColor": [0, 109, 33],
-		"innerColor": [255, 215, 0],
-		"favoredReligion": "Islam",
+		
 		"uniqueName": "Architects of Wonders",
 		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <during a Golden Age> "],
-		"cities": ["Agra","Shahjahanabad","Lahore","Fatehpur Sikri","Sikandra,","Srinagar","Prayagraj","Jaunpur","Aurangabad","Peshawar","Farrukhnagar",
-			"Sheikhpura","Sukkur","Thatta","Taxila","Chittagong","Brahmanbaria","Noakhali","Sylhet","Narayanganj","Dinajpur","Khulna","Chapai"],
+		
+		"outerColor": [0, 109, 33],
+		"innerColor": [255, 215, 0],
+		"cities": ["Agra","Shahjahanabad","Lahore","Fatehpur Sikri","Sikandra,","Srinagar","Prayagraj","Jaunpur","Aurangabad","Peshawar",
+			  "Farrukhnagar","Sheikhpura","Sukkur","Thatta","Taxila","Chittagong","Brahmanbaria","Noakhali","Sylhet","Narayanganj",
+			  "Dinajpur","Khulna","Chapai"],
+		
       		"spyNames": ["Akbar", "Hasan", "Ghulam", "Taqir", "Salim", "Bijapur", "Babur", "Humayun", "Bariam"]
 	},
 
@@ -306,9 +309,9 @@
 		
 		"outerColor": [30, 45, 35],
 		"innerColor": [200, 180, 125],
-		"cities": ["Kerma","Meroe","Napata","Semna","El Kurru","Nuri","Kawa","Sedeinga","Heh",
-			"Pedeme","Faras","Shaat","Iken","Buhen","Dangeil","Miam","Tombos","Kurgus","Soleb",
-			"Wad ban Naqa","Debba","Bugdumbush","Baki","Amara","Aborepi","Ukma","Pedeme"]
+		"cities": ["Kerma","Meroe","Napata","Semna","El Kurru","Nuri","Kawa","Sedeinga","Heh","Pedeme",
+			"Faras","Shaat","Iken","Buhen","Dangeil","Miam","Tombos","Kurgus","Soleb","Wad ban Naqa",
+			"Debba","Bugdumbush","Baki","Amara","Aborepi","Ukma","Pedeme"]
 	},
 
 		{
@@ -348,9 +351,9 @@
 		
 		"outerColor": [120, 60, 185],
 		"innerColor": [15, 110, 100],
-		"cities": ["Tyre","Byblos","Sidon","Beirut","Kition","Aynook","Leptis Magna","Quart-Hashdat","Ziz",
-			"Utica","Sabratha","Mtw","Lixus","Nora","Amrit","Oea","Gadir","Thapsus","Malaka",
-			"Hipponensis Sinus","Ibossim","Onoba","Mago","Sala","Sexi"]
+		"cities": ["Tyre","Byblos","Sidon","Beirut","Kition","Aynook","Leptis Magna","Quart-Hashdat","Ziz","Utica",
+			"Sabratha","Mtw","Lixus","Nora","Amrit","Oea","Gadir","Thapsus","Malaka","Hipponensis Sinus",
+			"Ibossim","Onoba","Mago","Sala","Sexi"]
 	},
 
 	{
@@ -391,7 +394,7 @@
 		"innerColor": [25, 50, 75],
 		"cities": ["Muscat","Salalah","Nizwa","Sur","Ibra","Bahla","Rustaq","Barka","Muttrah","Sohar",
                            "Sahan","Samail","Khasab","Raysut","Jabrin","Al Hamra","Seeb","Duqm","Thumrait","Shinas",
-                           "Manah","Madha","Zanzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
+                           "Manah","Madha","Zahnzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
 	},
 
 	{
