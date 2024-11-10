@@ -554,8 +554,8 @@
 		"uniques": ["[+25]% [Culture] <during a Golden Age>",
 			    "[+20]% Golden Age length"],
 		
-		"outerColor": [145, 130, 130],
-		"innerColor": [128,0,32],
+		"outerColor": [176, 168, 167],
+		"innerColor": [88, 145, 44],
 		"cities": ["Winchester","Lichfield","Wareham","Warwick","Ipswich","Buckingham","Hertford","Maldon","Stafford","Chester"
 			  ,"Chichester","Wilton","HÆstings","Bridgnorth","Bridport","Sashes","Suthampton","Watchet","Malmes","Tamworth"
 			  ,"Exeter","Snottingham"]
