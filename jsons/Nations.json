@@ -561,6 +561,45 @@
 			  ,"Exeter","Snottingham"]
 	},
 
+	{
+		"name": "Calusa",
+		"leaderName": "Senquene",
+		"adjective": ["Calusa"],
+		"startBias": ["Marsh"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "The heathens you call your army have terrorised my borders long enough. It is time for you o face God's divine punishment!",
+		"attacked": "Barbarians! The Angles and the Saxons brothers shall repel your raiders!",
+		"defeated": "Divided, the Angles and Saxons shall murder each other, thanks to you. A world where we can live under a peaceful future is forever lost",
+		"introduction": "The peoples of Mercia and Wessex greet you, foreigner. I am Æthelstan, Law-giver and King of this land.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "May our forces never need to meet eachother on the field of battle again",
+		"tradeRequest": "Is this exchange fair for you?",
+
+		"spyNames": ["Alfred","Osweald","Hilda","Godric","Ealhswiþ","Eadmund","Cyneric","Botwulf","Ælfred","Uhtric"],
+
+
+		"uniqueName": "SMasters of the Everglades",
+		"uniques": [],
+		
+		"outerColor": [176, 168, 167],
+		"innerColor": [88, 145, 44],
+		"cities": ["Winchester","Lichfield","Wareham","Warwick","Ipswich","Buckingham","Hertford","Maldon","Stafford","Chester"
+			  ,"Chichester","Wilton","HÆstings","Bridgnorth","Bridport","Sashes","Suthampton","Watchet","Malmes","Tamworth"
+			  ,"Exeter","Snottingham"]
+	},
+
 
 
 
