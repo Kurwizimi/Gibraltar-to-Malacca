@@ -182,7 +182,7 @@
 		"replaces": "Workshop",
 		"uniqueTo": "The Anglo-Saxons",
 		"maintenance": 2,
-		"production": 4,
+		"production": 2,
 		"culture": 2,
 		"happiness": 2,
 		"specialistSlots": {"Engineer": 1},
