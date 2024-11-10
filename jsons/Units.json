@@ -20,8 +20,8 @@
 		"uniqueTo": "Swahili",
 		"replaces": "Trireme",
 		"movement": 5,
-		"cost": 30,
-		"strength": 5,
+		"cost": 35,
+		"strength": 7,
 		"requiredTech": "Sailing",
 		"obsolete": "Astronomy",
 		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>","Cannot enter ocean tiles","May create improvements on water resources"]
@@ -123,8 +123,8 @@
 		"uniqueTo": "Phonecia",
 		"replaces": "Trireme",
 		"movement": 4,
-		"cost": 30,
-		"strength": 6,
+		"cost": 45,
+		"strength": 12,
 		"requiredTech": "Sailing",
 		"obsolete": "Astronomy",
 		"uniques":["Cannot enter ocean tiles"]
@@ -166,7 +166,8 @@
         	"strength": 16,
         	"cost": 90,
         	"requiredTech": "Civil Service",
-        	"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% to Flank Attack bonuses","Ignores Zone of Control"],
+        	"uniques": ["[+50]% Strength <vs [Mounted] units>",
+			    "[+25]% to Flank Attack bonuses","Ignores Zone of Control"],
         	"upgradesTo": "Lancer",
         	"obsoleteTech": "Metallurgy",
         	"attackSound": "metalhit"
@@ -178,14 +179,14 @@
 		 "uniqueTo": "Burgundy",
 		"replaces": "Great Merchant",
 		"movement": 4
-        	"uniques": [	"Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
-            			"Can instantly construct a [Customs house] improvement <by consuming this unit>",
-				"Can instantly construct a [Landmark] improvement <by consuming this unit>",
-				"[Great Artist] is earned [100]% faster",
-				"May enter foreign tiles without open borders",
-            			"Is part of Great Person group [Merchant]",
-            			"Unbuildable",
-            			"Uncapturable"],
+        	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
+            		    "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			    "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+			    "[Great Artist] is earned [100]% faster",
+			    "May enter foreign tiles without open borders",
+            		    "Is part of Great Person group [Merchant]",
+            		    "Unbuildable",
+            		    "Uncapturable"],
    	 },
 
 
@@ -198,9 +199,26 @@
         	"strength": 16,
         	"cost": 75,
         	"requiredTech": "Civil Service",
-        	"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <for every adjacent [River]>"],
+        	"uniques": ["[+50]% Strength <vs [Mounted] units>",
+			    "[+20]% Strength <for every adjacent [River]>"],
         	"upgradesTo": "Lancer",
         	"obsoleteTech": "Metallurgy",
         	"attackSound": "metalhit"
    	 },
+
+	{
+		"name": "Canoe",
+		"unitType": "Melee Water",
+		"uniqueTo": "Calusa",
+		"replaces": "Trireme",
+		"movement": 4,
+		"cost": 35,
+		"strength": 7,
+		"requiredTech": "Sailing",
+		"obsolete": "Astronomy",
+		"uniques":["Cannot enter ocean tiles",
+			   "[+15]% Strength bonus for [{Military}] units within [1] tiles",
+			   "Withdraws before melee combat <with [50]% chance>",]
+	}
+
 ]
