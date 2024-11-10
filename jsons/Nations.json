@@ -601,6 +601,48 @@
 			  ,"Timucua"]
 	},
 
+	{
+		"name": "Sri Lanka",
+		"leaderName": "Parakramabahu I",
+		"adjective": ["Sri Lankan"],
+		"startBias": ["River"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "You tread on the land of Calusa and disgrace our nation. I will make you pay tribute!",
+		"attacked": "We shall hunt you down in the swamps of the Everglades. You will regret this",
+		"defeated": "The Calusa have fallen! Our souls shall pass on to new life, even after you destroy our society. We shall torture you, even in a different form.",
+		"introduction": "I am Sequene, the king of the rivers and marsh. State your matters.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This tribute shall be accepteble",
+		"tradeRequest": "Are you interested in this trade?",
+
+		"spyNames": ["Caalus","Felip","Pablou","Antonia"],
+
+
+		"uniqueName": "Dipavamsa",
+		"uniques": [ "[+1 Production] from [Fresh Water] tiles [in all cities]",,
+			     "[-10]% Culture cost of natural border growth [in all cities] <in cities with a [Shrine]>",
+			     "[-10]% Culture cost of natural border growth [in all cities] <in cities with a [Temple]>",
+			     "[-10]% Culture cost of natural border growth [in all cities] <upon founding a Religion>"],
+		
+		"outerColor": [32, 54, 25],
+		"innerColor": [146, 209, 202],
+		"cities": ["Escampaha","Muspa","Mayaimi","Hobe","Jece","Tekeste","Guarugunbe","Cuchianga","Jaega","Tateste"
+			  ,"Custegiyo","Tocobanga","Pohoy","Uzita","Mocoso","Bomto","Ais","Jobe","Ulumay","Santalucea"
+			  ,"Timucua"]
+	},
+
 
 
 
