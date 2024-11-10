@@ -175,7 +175,22 @@
         	"hurryCostModifier": 25,
         	"percentStatBonus": {"gold": 50},
        		"requiredTech": "Currency"
-    },
+  	},
+
+	{
+		"name": "Shire Court",
+		"replaces": "Workshop",
+		"uniqueTo": "The Anglo-Saxons",
+		"maintenance": 2,
+		"production": 4,
+		"culture": 2,
+		"happiness": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 30,
+		"percentStatBonus": {"production": 10},
+		"uniques": ["[-20]% enemy spy effectiveness [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
 
 
 
