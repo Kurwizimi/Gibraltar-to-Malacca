@@ -186,5 +186,21 @@
             			"Is part of Great Person group [Merchant]",
             			"Unbuildable",
             			"Uncapturable"],
-    },
+   	 },
+
+
+	{
+    	    	"name": "Fyrd",
+      		"unitType": "Sword",
+		"uniqueTo": "The Anglo-Saxons",
+		"replaces": "Pikeman",
+        	"movement": 2,
+        	"strength": 16,
+        	"cost": 75,
+        	"requiredTech": "Civil Service",
+        	"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <for every adjacent [River]>"],
+        	"upgradesTo": "Lancer",
+        	"obsoleteTech": "Metallurgy",
+        	"attackSound": "metalhit"
+   	 },
 ]
