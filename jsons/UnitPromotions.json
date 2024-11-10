@@ -8,7 +8,7 @@
 
 	{
 		"name": "River of Grass",
-		"uniques": ["Turn this tile into a [Marsh] tile <in [{non-[Strategic resource]} {non-[Luxury resource]} {non-[Marsh]} {Land}] tiles> <for all movement> <with [50]% chance>",],
+		"uniques": ["Turn this tile into a [Marsh] tile <in [{non-[Strategic resource]} {non-[Luxury resource]} {non-[Marsh]} {Land}] tiles> <for all movement>"],
 		"row": 130,
       		"column": 0,
 	}
