@@ -207,6 +207,18 @@
         	"requiredTech": "Pottery"
     	},
 
+	{
+        	"name": "Vatadage",
+		"replaces": "Shrine",
+		"uniqueTo": "Sri Lanka",
+        	"faith": 2,
+        	"maintenance": 2,
+        	"hurryCostModifier": 25,
+		"uniques": ["[-5]% Culture cost of natural border growth [in this city]",
+			    "[-5]% Culture cost of natural border growth [in this city] <in cities with a [Temple]>"],
+        	"requiredTech": "Pottery",
+   	},
+
 
 
 
