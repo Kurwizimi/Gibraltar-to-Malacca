@@ -221,4 +221,20 @@
 			   "Withdraws before melee combat <with [50]% chance>"]
 	}
 
+	{
+        	"name": "Balata",
+        	"unitType": "Sword",
+		"uniqueTo": "Sri Lanka",
+		"replaces": "Longswordsman",
+        	"movement": 2,
+        	"strength": 21,
+        	"cost": 120,
+        	"requiredTech": "Metal Casting",
+        	"upgradesTo": "Musketman",
+        	"obsoleteTech": "Gunpowder",
+		"uniques":["[This Unit] heals [75] HP <upon ending a turn in a [Fresh Water] tile>"
+        	"requiredResource": "Iron",
+        	"attackSound": "metalhit"
+    },
+
 ]
