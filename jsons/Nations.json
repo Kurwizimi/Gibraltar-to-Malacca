@@ -609,10 +609,10 @@
 		
 		"startIntroPart": "",
 		
-		"declaringWar": "You tread on the land of Calusa and disgrace our nation. I will make you pay tribute!",
-		"attacked": "We shall hunt you down in the swamps of the Everglades. You will regret this",
-		"defeated": "The Calusa have fallen! Our souls shall pass on to new life, even after you destroy our society. We shall torture you, even in a different form.",
-		"introduction": "I am Sequene, the king of the rivers and marsh. State your matters.",
+		"declaringWar": "Your people wish to be unified with the holy lands of Sri Lanka, and so we shall follow their wishes, at any cost.",
+		"attacked": "You disgrace the holy land of our nation. Our faith in victory shall repel any brutish force you throw our way.",
+		"defeated": "How? I am the Great Parakramabahu? How have you undone the unity of the three kingdoms of this now desecrated land. ",
+		"introduction": "Welcome stranger. The people of Sri Lanka are curious about your land. May you gift us such information?",
 		
 		"neutralHello": "I hear you.",
 		"neutralLetsHearIt": ["Go on."],
@@ -624,8 +624,8 @@
 		"hateNo": [,"You are worthless"],
 		"hateYes": ["Maybe just this once..."],
 		
-		"afterPeace": "This tribute shall be accepteble",
-		"tradeRequest": "Are you interested in this trade?",
+		"afterPeace": "This will do",
+		"tradeRequest": "Valubles from our harbours need a buyer to purchase them.",
 
 		"spyNames": ["Caalus","Felip","Pablou","Antonia"],
 
@@ -636,11 +636,11 @@
 			     "[-10]% Culture cost of natural border growth [in all cities] <in cities with a [Temple]>",
 			     "[-10]% Culture cost of natural border growth [in all cities] <upon founding a Religion>"],
 		
-		"outerColor": [32, 54, 25],
-		"innerColor": [146, 209, 202],
-		"cities": ["Escampaha","Muspa","Mayaimi","Hobe","Jece","Tekeste","Guarugunbe","Cuchianga","Jaega","Tateste"
-			  ,"Custegiyo","Tocobanga","Pohoy","Uzita","Mocoso","Bomto","Ais","Jobe","Ulumay","Santalucea"
-			  ,"Timucua"]
+		"outerColor": [148, 30, 50],
+		"innerColor": [247, 183, 24],
+		"cities": ["Colombo","Polonnaruwa","Kandy","Mahiyangana","Anuradhapura","Mahanagukula","Paliyankulam","Jaffna","Dehiwala","Moratuwa"
+			  ,"Kotte","Negombo","Kalmunai","Vavuniya","Galle","Trincomalee","Batticaloa","Matale","Katunayake","Dambulla"
+			  ,"Kolonnawa","Ratnapura"]
 	},
 
 
