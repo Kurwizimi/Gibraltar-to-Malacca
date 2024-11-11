@@ -631,7 +631,7 @@
 
 
 		"uniqueName": "Dipavamsa",
-		"uniques": [ "[+1 Production] from [Fresh Water] tiles [in all cities]",,
+		"uniques": [ "[+1 Production] from [Fresh Water] tiles [in all cities]",
 			     "[-10]% Culture cost of natural border growth [in all cities] <in cities with a [Shrine]>",
 			     "[-10]% Culture cost of natural border growth [in all cities] <in cities with a [Temple]>",
 			     "[-10]% Culture cost of natural border growth [in all cities] <upon founding a Religion>"],
