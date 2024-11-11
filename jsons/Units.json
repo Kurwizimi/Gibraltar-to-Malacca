@@ -232,7 +232,7 @@
         	"requiredTech": "Metal Casting",
         	"upgradesTo": "Musketman",
         	"obsoleteTech": "Gunpowder",
-		"uniques":["[This Unit] heals [75] HP <upon ending a turn in a [Fresh Water] tile>"
+		"uniques":["[This Unit] heals [75] HP <upon ending a turn in a [Fresh Water] tile>"],
         	"requiredResource": "Iron",
         	"attackSound": "metalhit"
     },
