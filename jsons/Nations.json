@@ -643,6 +643,46 @@
 			  ,"Kolonnawa","Ratnapura"]
 	},
 
+	{
+		"name": "Kazakhstan",
+		"leaderName": "Ablai Khan",
+		"adjective": ["Kazakh"],
+		"startBias": ["Plains"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "The Kazakhs shall never accept your tyrannical suzerainity of their true homeland. We shall reclaim it, no matter the cost.",
+		"attacked": "It appears our attempt at neutrality has been percieved as weakness. The Kazakh horde shall crush you troops!",
+		"defeated": "No! Why did the Kazakh tribes collapse and seperate. Oh God, why must the treachery of war be the end of a united steppe? Why?",
+		"introduction": "You trean near Kazakh lands. I am Albai, and you shall know me as Khan of the Kazakhs",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do",
+		"tradeRequest": "Valubles from our harbours need a buyer to purchase them.",
+
+		"spyNames": ["Caalus","Felip","Pablou","Antonia"],
+
+
+		"uniqueName": "Nomads of Asia",
+		"uniques": [ "[+1 Food] from [Pasture] tiles [in all cities]",
+			     "[-25]% construction time for [Pasture] improvements",],
+		
+		"outerColor": [148, 30, 50],
+		"innerColor": [247, 183, 24],
+		"cities": ["Colombo","Polonnaruwa","Kandy","Mahiyangana","Anuradhapura","Mahanagukula","Paliyankulam","Jaffna","Dehiwala","Moratuwa"
+			  ,"Kotte","Negombo","Kalmunai","Vavuniya","Galle","Trincomalee","Batticaloa","Matale","Katunayake","Dambulla"
+			  ,"Kolonnawa","Ratnapura"]
+	},
+
 
 
 
