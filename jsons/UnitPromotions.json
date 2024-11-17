@@ -13,6 +13,13 @@
       		"column": 0,
 	}
 
+	{
+		"name": "Khans of the Steppe",
+		"uniques": ["[+15] HP when healing <in [Foreign Land] tiles>"]
+		"row": 120,
+      		"column": 0,
+	}
+
 
 
 
