@@ -235,6 +235,25 @@
 		"uniques":["[This Unit] heals [75] HP <upon ending a turn in a [Fresh Water] tile>"],
         	"requiredResource": "Iron",
         	"attackSound": "metalhit"
+   	 },
+
+	{
+        	"name": "Tolu-Batyr",
+        	"unitType": "Mounted",
+		"uniqueTo": "Kazakhstan",
+		"replaces": "Horseman",
+        	"movement": 4,
+        	"strength": 15,
+        	"cost": 75,
+        	"requiredTech": "Horseback Riding",
+        	"requiredResource": "Horses",
+        	"upgradesTo": "Knight",
+        	"obsoleteTech": "Chivalry",
+        	"uniques": ["Can move after attacking",
+            		    "No defensive terrain bonus",
+            		    "[-33]% Strength <vs cities> <when attacking>",
+			    "[+25] HP when healing <in [Foreign Land] tiles>"],
+        	"attackSound": "horse"
     },
 
 ]
