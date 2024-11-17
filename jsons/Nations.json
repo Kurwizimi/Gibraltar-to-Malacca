@@ -669,18 +669,18 @@
 		"afterPeace": "This will do",
 		"tradeRequest": "Valubles from our harbours need a buyer to purchase them.",
 
-		"spyNames": ["Caalus","Felip","Pablou","Antonia"],
+		"spyNames": ["Nurasyl","Timur","Zhuldyz","Tomiris","Aldiyar","Aisultan","Adilat","Bibigul","Khamza","Makhmud"],
 
 
 		"uniqueName": "Nomads of Asia",
 		"uniques": [ "[+1 Food] from [Pasture] tiles [in all cities]",
-			     "[-25]% construction time for [Pasture] improvements",],
+			     "[-25]% construction time for [Pasture] improvements"],
 		
-		"outerColor": [148, 30, 50],
-		"innerColor": [247, 183, 24],
-		"cities": ["Colombo","Polonnaruwa","Kandy","Mahiyangana","Anuradhapura","Mahanagukula","Paliyankulam","Jaffna","Dehiwala","Moratuwa"
-			  ,"Kotte","Negombo","Kalmunai","Vavuniya","Galle","Trincomalee","Batticaloa","Matale","Katunayake","Dambulla"
-			  ,"Kolonnawa","Ratnapura"]
+		"outerColor": [0, 175, 202],
+		"innerColor": [229, 230, 211],
+		"cities": ["Astana","Oral","Shymkent","Taraz","Turkistan","Semei","Kokshetau","Petropavl","Pavlodar","Kyzylorda"
+			  ,"Oskemen","Aqtobe","Atyrau","Qostanai","Qaraganda","Ridder","Balqash","Schuchinsk","Taldykorgan","Temirtau"
+			  ,"Jezkazgan","Saran"]
 	},
 
 
