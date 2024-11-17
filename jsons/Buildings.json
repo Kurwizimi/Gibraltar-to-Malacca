@@ -219,6 +219,15 @@
         	"requiredTech": "Pottery",
    	},
 
+	 {
+        	"name": "Kiiz Uy",
+        	"happiness": 2,
+        	"hurryCostModifier": 25,
+		 "uniques": ["Gain a free [Stable] [in this city]",
+			     "All newly-trained [Mounted] units [in this city] receive the [Khans of the Steppe] promotion"]
+        	"requiredTech": "Trapping"
+   	},
+
 
 
 
