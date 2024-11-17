@@ -48,7 +48,7 @@
 		"uniqueTo": "The Sassanid Empire",
 		"replaces": "Horseman",
 		"movement": 3,
-		"strength": 17,
+		"strength": 12,
 		"cost": 75,
 		"obsolete": "Chivalry"
 		"uniques":["No defensive terrain bonus","[+5]% Gold cost of upgrading"],
