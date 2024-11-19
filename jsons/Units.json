@@ -256,4 +256,20 @@
         	"attackSound": "horse"
     },
 
+	{
+        	"name": "Axeman",
+		"uniqueTo": "Scythia",
+		"replaces": "Longswordsman",
+        	"unitType": "Sword",
+        	"movement": 2,
+        	"strength": 19,
+        	"cost": 120,
+        	"requiredTech": "Horseback Riding",
+        	"upgradesTo": "Musketman",
+		"promotions": ["Shock I"],
+        	"obsoleteTech": "Gunpowder",
+        	"attackSound": "metalhit"
+    	},
+    
+
 ]
