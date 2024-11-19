@@ -683,6 +683,46 @@
 			  ,"Jezkazgan","Saran"]
 	},
 
+	{
+		"name": "Scythia",
+		"leaderName": "Tomyris",
+		"adjective": ["Scithian"],
+		"startBias": ["Plains"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
+		"attacked": "You have betrayed the trust of the Scythians and now you will pay!",
+		"defeated": "The Empress falls, but I will be remembered. Will you?",
+		"introduction": "Greetings. If you are a true friend, we will have peace, but let it be known, I will repay any treachery with blood!",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do",
+		"tradeRequest": "I have sent you a trade caravan bearing a decorated gorytos as a gift for you. You will accept, yes?",
+
+		"spyNames": ["Turxu","Kolax","Argimpas","Scopasis","Artimpada","Apia","Hestia","Lewlelil","Kollippi","Temarun"],
+
+
+		"uniqueName": "Destroyer of Persia",
+		"uniques": [ "All newly-trained [Mounted] units [in all cities] receive the [Charge] promotion",
+			     "Free [Horseman] appears <upon conquering a city>"],
+		
+		"outerColor": [0, 175, 202],
+		"innerColor": [229, 230, 211],
+		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Kostromskaya","Myriv","Solokha","Maikop"
+			  ,"Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya"
+			  ,"Ogüz","Theodosia"]
+	},
+
 
 
 
