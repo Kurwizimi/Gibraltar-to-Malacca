@@ -112,31 +112,40 @@
 	},
 
 	{
-        "name": "Cothon",
-	"replaces": "Harbor",
-	"uniqueTo": "Phonecia",
-        "cost": 60,
-        "gold": 4,
-        "hurryCostModifier": 25,
-        "uniques": [
-            "Connects trade routes over water",
-            "Must be next to [Coast]" ],
-        "requiredTech": "Compass"
-    },
+        	"name": "Cothon",
+		"replaces": "Harbor",
+		"uniqueTo": "Phonecia",
+        	"cost": 60,
+        	"gold": 4,
+        	"hurryCostModifier": 25,
+        	"uniques": ["Connects trade routes over water",
+            		    "Must be next to [Coast]"],
+        	"requiredTech": "Compass"
+    	},
 
 	{
 		"name": "Relocate Capital",
 		"cost": 15,
 		"uniqueTo": "Phonecia",
 		"hurryCostModifier": 15,
-		"uniques": ["Unavailable <in cities with a [Palace]> <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <after discovering [Civil Service]> <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [15] per owned city <hidden from users>", "Cost increases by [15] when built <hidden from users>"]
+		"uniques": ["Unavailable <in cities with a [Palace]> <hidden from users>",
+			    "Will not be displayed in Civilopedia <hidden from users>",
+			    "Unbuildable <hidden from users>",
+			    "Can be purchased with [Gold] [in all cities] <after discovering [Civil Service]> <hidden from users>",
+			    "Remove [Palace] [in all cities] <hidden from users>",
+			    "Gain a free [Palace] [in this city] <hidden from users>",
+			    "Cost increases by [15] per owned city <hidden from users>",
+			    "Cost increases by [15] when built <hidden from users>"]
         },
 
 	{
 		"name": "Land of Frankincense",
 		"cost": 1,
 		"uniqueTo": "Oman",
-		"uniques": [ "Will not be displayed in Civilopedia <hidden from users>",  "Only available <in cities with a [Palace]>","Provides [2] [Frankincense]","Provides [2] [Myrrh]"]
+		"uniques": ["Will not be displayed in Civilopedia <hidden from users>",
+			    "Only available <in cities with a [Palace]>",
+			    "Provides [2] [Frankincense]",
+			    "Provides [2] [Myrrh]"]
         },
 
         {
