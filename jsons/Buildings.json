@@ -246,12 +246,11 @@
         	"maintenance": 1,
         	"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
         	"hurryCostModifier": 25,
-        	"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+        	"uniques": ["[+50]% Production when constructing [Mounted] units [in this city]",
                             "[+1 Production] from [Cattle] tiles [in this city]",
                             "[+1 Production, +1 Culture] from [Horses] tiles [in this city]",
                             "[+1 Production] from [Sheep] tiles [in this city]",
-		            "[+1 Production, +1 Culture] from [Gold] tiles [in this city]",
-		            "[+2 Gold] from [Iron] tiles [in this city]"],
+		            "[+1 Production, +1 Culture] from [Gold] tiles [in this city]",],
         	"requiredTech": "Horseback Riding"
     	},
 
