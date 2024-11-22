@@ -7,7 +7,7 @@
 		"movement": 4,
 		"strength": 29,
 		"cost": 190,
-		"uniques":["Comment [Unlocked earlier at Printing Press vs Militery Science]"]
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
 		"obsolete": "Combustion"
 		"requiredTech": "Printing Press",
 		"requiredResource": "Horses",
