@@ -6,9 +6,9 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Burma
   rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 736
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 BuildingIcons/Paya
