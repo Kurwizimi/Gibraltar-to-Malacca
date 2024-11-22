@@ -5,13 +5,6 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Karkhanas
   rotate: false
-  xy: 712, 712
-  size: 700, 700
-  orig: 700, 700
-  offset: 0, 0
-  index: -1
-BuildingIcons/Paya
-  rotate: false
   xy: 712, 4
   size: 700, 700
   orig: 700, 700
