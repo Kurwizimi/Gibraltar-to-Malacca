@@ -48,7 +48,7 @@
 		"food": 4,
 		"uniques": ["[1] population in a random city","[+1 Food] from [Farm] tiles [in this city] <when not at war>"
 			   ,"[+1 Food] from [Deer] tiles [in this city]"
-			   ,"[+1 Food] from [Banana] tiles [in this city]"
+			   ,"[+1 Food] from [Bananas] tiles [in this city]"
 			   ,"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Calendar",
 	}
