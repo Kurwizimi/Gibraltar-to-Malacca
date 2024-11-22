@@ -103,7 +103,7 @@
 
 	{
 		"name": "Pitati",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "Kush",
 		"replaces": "Archer",
 		"movement": 3,
