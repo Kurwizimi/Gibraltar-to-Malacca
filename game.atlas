@@ -24,28 +24,44 @@ UnitIcons/Dervish Cavalry
   orig: 700, 700
   offset: 0, 0
   index: -1
+UnitIcons/Gajnal
+  rotate: false
+  xy: 712, 712
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+
 game2.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Qalcad
+BuildingIcons/Paya
   rotate: false
   xy: 4, 712
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-NationIcons/Somalia
+NationIcons/Qalcad
   rotate: false
   xy: 4, 4
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-NationIcons/The Mughals
+NationIcons/Somalia
   rotate: false
   xy: 712, 712
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
+  index: -1
+NationIcons/The Mughals
+  rotate: false
+  xy: 712, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
