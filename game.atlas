@@ -13,16 +13,16 @@ BuildingIcons/Burma
   index: -1
 BuildingIcons/Paya
   rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 712, 112
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
 NationIcons/Mysini
   rotate: false
   xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
 UnitIcons/Ganjal
