@@ -18,14 +18,14 @@ BuildingIcons/Paya
   orig: 700, 700
   offset: 0, 0
   index: -1
-NationIcons/Mysini
+NationIcons/Somalia
   rotate: false
   xy: 4, 4
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-UnitIcons/Ganjal
+BuildingIcons/Karkhandas
   rotate: false
   xy: 328, 4
   size: 100, 100
