@@ -1,3 +1,4 @@
+
 game.png
 size: 2048, 2048
 format: RGBA8888
@@ -58,3 +59,4 @@ UnitIcons/Gajnal
   size: 579, 416
   orig: 579, 416
   offset: 0, 0
+  index: -1
