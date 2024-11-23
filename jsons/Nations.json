@@ -716,8 +716,8 @@
 		"uniques": [ "All newly-trained [Mounted] units [in all cities] receive the [Charge] promotion",
 			     "Free [Horseman] appears <upon conquering a city>"],
 		
-		"outerColor": [0, 175, 202],
-		"innerColor": [229, 230, 211],
+		"outerColor": [187, 189, 75],
+		"innerColor": [99, 59, 12],
 		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Kostromskaya","Myriv","Solokha","Maikop"
 			  ,"Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya"
 			  ,"Ogüz","Theodosia"]
