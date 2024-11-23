@@ -5,57 +5,56 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Karkhanas
   rotate: false
-  xy: 712, 567
+  xy: 1318, 1418
   size: 552, 591
   orig: 552, 591
   offset: 0, 0
   index: -1
 BuildingIcons/Paya
   rotate: false
-  xy: 4, 681
+  xy: 4, 1402
   size: 700, 607
   orig: 700, 607
   offset: 0, 0
   index: -1
 BuildingIcons/Qalcad
   rotate: false
-  xy: 4, 66
+  xy: 712, 1402
   size: 598, 607
   orig: 598, 607
   offset: 0, 0
   index: -1
 NationIcons/Burma
   rotate: false
-  xy: 610, 4
+  xy: 1142, 839
   size: 329, 555
   orig: 329, 555
   offset: 0, 0
   index: -1
 NationIcons/Somalia
   rotate: false
-  xy: 1347, 1390
+  xy: 639, 788
   size: 495, 606
   orig: 495, 606
   offset: 0, 0
   index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 712, 1590
+  xy: 4, 988
   size: 627, 406
   orig: 627, 406
   offset: 0, 0
   index: -1
 UnitIcons/Dervish Cavalry
   rotate: false
-  xy: 4, 1296
-  size: 700, 700
-  orig: 700, 700
+  xy: 4, 4
+  size: 537, 552
+  orig: 537, 552
   offset: 0, 0
   index: -1
 UnitIcons/Gajnal
   rotate: false
-  xy: 712, 1166
+  xy: 4, 564
   size: 579, 416
   orig: 579, 416
   offset: 0, 0
-  index: -1
