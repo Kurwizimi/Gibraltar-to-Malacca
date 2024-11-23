@@ -44,7 +44,7 @@ BuildingIcons/Paya
   orig: 700, 700
   offset: 0, 0
   index: -1
-NationIcons/Qalcad
+BuildingIcons/Qalcad
   rotate: false
   xy: 4, 4
   size: 700, 700
