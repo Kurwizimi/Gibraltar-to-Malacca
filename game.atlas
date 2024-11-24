@@ -4,58 +4,113 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Karkhanas
-  rotate: false
-  xy: 1318, 1418
-  size: 552, 591
-  orig: 552, 591
-  offset: 0, 0
-  index: -1
+repeat: none
 BuildingIcons/Paya
   rotate: false
-  xy: 4, 1402
+  xy: 712, 1326
   size: 700, 607
   orig: 700, 607
   offset: 0, 0
   index: -1
+NationIcons/Kush
+  rotate: false
+  xy: 4, 1324
+  size: 700, 609
+  orig: 700, 609
+  offset: 0, 0
+  index: -1
+NationIcons/Oman
+  rotate: false
+  xy: 4, 717
+  size: 700, 599
+  orig: 700, 599
+  offset: 0, 0
+  index: -1
+NationIcons/Phonecia
+  rotate: false
+  xy: 4, 128
+  size: 700, 581
+  orig: 700, 581
+  offset: 0, 0
+  index: -1
+NationIcons/Pueblo
+  rotate: false
+  xy: 712, 618
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+NationIcons/Swahili
+  rotate: false
+  xy: 712, 4
+  size: 700, 606
+  orig: 700, 606
+  offset: 0, 0
+  index: -1
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Karkhanas
+  rotate: false
+  xy: 1318, 618
+  size: 552, 591
+  orig: 552, 591
+  offset: 0, 0
+  index: -1
 BuildingIcons/Qalcad
   rotate: false
-  xy: 712, 1402
+  xy: 712, 1026
   size: 598, 607
   orig: 598, 607
   offset: 0, 0
   index: -1
+NationIcons/Al Andalus
+  rotate: false
+  xy: 4, 13
+  size: 587, 587
+  orig: 587, 587
+  offset: 0, 0
+  index: -1
 NationIcons/Burma
   rotate: false
-  xy: 1142, 839
+  xy: 1647, 55
   size: 329, 555
   orig: 329, 555
   offset: 0, 0
   index: -1
 NationIcons/Somalia
   rotate: false
-  xy: 639, 788
+  xy: 1144, 4
   size: 495, 606
   orig: 495, 606
   offset: 0, 0
   index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 4, 988
+  xy: 4, 608
   size: 627, 406
   orig: 627, 406
   offset: 0, 0
   index: -1
+NationIcons/The Sassanid Empire
+  rotate: false
+  xy: 4, 1022
+  size: 700, 611
+  orig: 700, 611
+  offset: 0, 0
+  index: -1
 UnitIcons/Dervish Cavalry
   rotate: false
-  xy: 4, 4
+  xy: 599, 48
   size: 537, 552
   orig: 537, 552
   offset: 0, 0
   index: -1
 UnitIcons/Gajnal
   rotate: false
-  xy: 4, 564
+  xy: 1318, 1217
   size: 579, 416
   orig: 579, 416
   offset: 0, 0
