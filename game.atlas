@@ -4,47 +4,46 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-repeat: none
-BuildingIcons/Paya
+BuildingIcons/Alcazar
   rotate: false
-  xy: 712, 1326
-  size: 700, 607
-  orig: 700, 607
+  xy: 712, 1330
+  size: 700, 608
+  orig: 700, 608
   offset: 0, 0
   index: -1
-NationIcons/Kush
+BuildingIcons/Cliff Dwellings
   rotate: false
-  xy: 4, 1324
-  size: 700, 609
-  orig: 700, 609
-  offset: 0, 0
-  index: -1
-NationIcons/Oman
-  rotate: false
-  xy: 4, 717
-  size: 700, 599
-  orig: 700, 599
-  offset: 0, 0
-  index: -1
-NationIcons/Phonecia
-  rotate: false
-  xy: 4, 128
-  size: 700, 581
-  orig: 700, 581
-  offset: 0, 0
-  index: -1
-NationIcons/Pueblo
-  rotate: false
-  xy: 712, 618
+  xy: 712, 622
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-NationIcons/Swahili
+BuildingIcons/Cothon
   rotate: false
   xy: 712, 4
-  size: 700, 606
-  orig: 700, 606
+  size: 700, 610
+  orig: 700, 610
+  offset: 0, 0
+  index: -1
+UnitIcons/ Zenata Cavalry
+  rotate: false
+  xy: 4, 1331
+  size: 700, 607
+  orig: 700, 607
+  offset: 0, 0
+  index: -1
+UnitIcons/Al Sultanah
+  rotate: false
+  xy: 4, 728
+  size: 700, 595
+  orig: 700, 595
+  offset: 0, 0
+  index: -1
+UnitIcons/Bireme
+  rotate: false
+  xy: 4, 122
+  size: 700, 598
+  orig: 700, 598
   offset: 0, 0
   index: -1
 game2.png
@@ -52,10 +51,167 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Falaj
+  rotate: false
+  xy: 4, 1339
+  size: 700, 603
+  orig: 700, 603
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nahrawan Canal
+  rotate: false
+  xy: 712, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+NationIcons/Kush
+  rotate: false
+  xy: 712, 1333
+  size: 700, 609
+  orig: 700, 609
+  offset: 0, 0
+  index: -1
+UnitIcons/Jahazi
+  rotate: false
+  xy: 4, 730
+  size: 700, 601
+  orig: 700, 601
+  offset: 0, 0
+  index: -1
+UnitIcons/Lada'qwe
+  rotate: false
+  xy: 4, 22
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+UnitIcons/Myinsi
+  rotate: false
+  xy: 712, 712
+  size: 700, 613
+  orig: 700, 613
+  offset: 0, 0
+  index: -1
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Paya
+  rotate: false
+  xy: 4, 685
+  size: 700, 607
+  orig: 700, 607
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pillar Tomb
+  rotate: false
+  xy: 4, 73
+  size: 700, 604
+  orig: 700, 604
+  offset: 0, 0
+  index: -1
+NationIcons/Oman
+  rotate: false
+  xy: 4, 1300
+  size: 700, 599
+  orig: 700, 599
+  offset: 0, 0
+  index: -1
+NationIcons/Phonecia
+  rotate: false
+  xy: 712, 1318
+  size: 700, 581
+  orig: 700, 581
+  offset: 0, 0
+  index: -1
+NationIcons/Pueblo
+  rotate: false
+  xy: 712, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+UnitIcons/Pitati
+  rotate: false
+  xy: 712, 712
+  size: 700, 598
+  orig: 700, 598
+  offset: 0, 0
+  index: -1
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 BuildingIcons/Karkhanas
   rotate: false
-  xy: 1318, 618
+  xy: 4, 201
   size: 552, 591
+  orig: 552, 591
+  offset: 0, 0
+  index: -1
+BuildingIcons/Qalcad
+  rotate: false
+  xy: 1420, 1213
+  size: 598, 607
+  orig: 598, 607
+  offset: 0, 0
+  index: -1
+NationIcons/Al Andalus
+  rotate: false
+  xy: 1420, 618
+  size: 587, 587
+  orig: 587, 587
+  offset: 0, 0
+  index: -1
+NationIcons/Burma
+  rotate: false
+  xy: 1612, 55
+  size: 329, 555
+  orig: 329, 555
+  offset: 0, 0
+  index: -1
+NationIcons/Somalia
+  rotate: false
+  xy: 1109, 4
+  size: 495, 606
+  orig: 495, 606
+  offset: 0, 0
+  index: -1
+NationIcons/Swahili
+  rotate: false
+  xy: 4, 1214
+  size: 700, 606
+  orig: 700, 606
+  offset: 0, 0
+  index: -1
+NationIcons/The Mughals
+  rotate: false
+  xy: 4, 800
+  size: 627, 406
+  orig: 627, 406
+  offset: 0, 0
+  index: -1
+NationIcons/The Sassanid Empire
+  rotate: false
+  xy: 712, 1209
+  size: 700, 611
+  orig: 700, 611
+  offset: 0, 0
+  index: -1
+UnitIcons/Dervish Cavalry
+  rotate: false
+  xy: 564, 225
+  size: 537, 552
+  orig: 537, 552
+  offset: 0, 0
+  index: -1
+UnitIcons/Gajnal
+  rotate: false
+  xy: 639, 785
+  size: 579, 416
   orig: 552, 591
   offset: 0, 0
   index: -1
