@@ -6,21 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Alcazar
   rotate: false
-  xy: 564, 603
+  xy: 951, 1409
   size: 230, 200
   orig: 230, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cliff Dwellings
   rotate: false
-  xy: 802, 604
+  xy: 610, 994
   size: 228, 200
   orig: 228, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cothon
   rotate: false
-  xy: 564, 396
+  xy: 610, 1202
   size: 230, 199
   orig: 230, 199
   offset: 0, 0
@@ -55,7 +55,7 @@ BuildingIcons/Paya
   index: -1
 BuildingIcons/Pillar Tomb
   rotate: false
-  xy: 484, 4
+  xy: 712, 1409
   size: 231, 200
   orig: 231, 200
   offset: 0, 0
@@ -66,59 +66,59 @@ BuildingIcons/Qalcad
   size: 598, 607
   orig: 598, 607
   offset: 0, 0
-  index: -1
+    index: -1
 NationIcons/Al Andalus
-  rotate: false
-  xy: 1954, 1637
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Burma
-  rotate: false
-  xy: 1844, 1637
-  size: 102, 90
-  orig: 102, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Kush
-  rotate: false
-  xy: 941, 1519
-  size: 102, 90
-  orig: 102, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Oman
-  rotate: false
-  xy: 828, 1519
-  size: 105, 90
-  orig: 105, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Phonecia
-  rotate: false
-  xy: 712, 1519
-  size: 108, 90
-  orig: 108, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Pueblo
   rotate: false
   xy: 1954, 1539
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+NationIcons/Burma
+  rotate: false
+  xy: 1189, 1519
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Kush
+  rotate: false
+  xy: 1189, 1421
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Oman
+  rotate: false
+  xy: 964, 1311
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Phonecia
+  rotate: false
+  xy: 848, 1311
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Pueblo
+  rotate: false
+  xy: 1189, 1323
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 NationIcons/Somalia
   rotate: false
-  xy: 610, 812
-  size: 495, 606
-  orig: 495, 606
+  xy: 1844, 1637
+  size: 105, 90
+  orig: 105, 90
   offset: 0, 0
   index: -1
 NationIcons/Swahili
   rotate: false
-  xy: 915, 506
+  xy: 1077, 1311
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
@@ -132,28 +132,28 @@ NationIcons/The Mughals
   index: -1
 NationIcons/The Sassanid Empire
   rotate: false
-  xy: 1844, 1539
+  xy: 1073, 1213
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 UnitIcons/ Zenata Cavalry
   rotate: false
-  xy: 802, 408
+  xy: 961, 1213
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
 UnitIcons/Al Sultanah
   rotate: false
-  xy: 564, 298
+  xy: 610, 896
   size: 106, 90
   orig: 106, 90
   offset: 0, 0
   index: -1
 UnitIcons/Bireme
   rotate: false
-  xy: 802, 506
+  xy: 1844, 1735
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
@@ -174,28 +174,28 @@ UnitIcons/Gajnal
   index: -1
 UnitIcons/Jahazi
   rotate: false
-  xy: 1844, 1735
+  xy: 848, 1213
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 UnitIcons/Lada'kwe
   rotate: false
-  xy: 914, 408
+  xy: 1844, 1539
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 UnitIcons/Myinsi
   rotate: false
-  xy: 712, 1432
+  xy: 610, 809
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
   index: -1
 UnitIcons/Pitati
   rotate: false
-  xy: 678, 298
+  xy: 724, 896
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
