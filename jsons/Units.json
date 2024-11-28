@@ -261,7 +261,7 @@
 		"uniqueTo": "Scythia",
 		"replaces": "Longswordsman",
         	"unitType": "Sword",
-        	"movement": 2,
+        	"movement": 3,
         	"strength": 19,
         	"cost": 120,
         	"requiredTech": "Horseback Riding",
