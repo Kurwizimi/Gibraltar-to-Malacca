@@ -164,7 +164,7 @@
 	{
               	"name": "Palengke",
 		"replaces": "Market",
-		"uniqueTo": "The Phillipines",
+		"uniqueTo": "The Philippines",
       		"gold": 2,
     	   	"specialistSlots": {"Merchant": 1},
       	  	"hurryCostModifier": 25,
