@@ -250,7 +250,7 @@
                             "[+1 Production] from [Cattle] tiles [in this city]",
                             "[+1 Production, +1 Culture] from [Horses] tiles [in this city]",
                             "[+1 Production] from [Sheep] tiles [in this city]",
-		            "[+1 Production, +1 Culture] from [Gold] tiles [in this city]",],
+		            "[+1 Production, +1 Culture] from [Gold] tiles [in this city]"],
         	"requiredTech": "Horseback Riding"
     	},
 
