@@ -398,7 +398,7 @@
 	},
 
 	{
-		"name": "The Phillipines",
+		"name": "The Philippines",
 		"leaderName": "Dipatuan Kudarat",
 		"adjective": ["Filipino"],
 		"startBias": ["Coast"],
@@ -408,7 +408,7 @@
 		"declaringWar": "Why must you sell yourselves into slavery to toil for the benefit of the sinful? I shall bring the light of God to your heretical lands!",
 		"attacked": "You dare disrespect our independence? To expect such submission from us is sheer stupidity.",
 		"defeated": "Curse your imperialistic ways! When God will judge you, you shall not be spared from the flames of Hell!",
-		"introduction": "I welcome you to the Phillipines, nation of the followers of Muhammad and Christ, defenders of faith.",
+		"introduction": "I welcome you to the Philippines, nation of the followers of Muhammad and Christ, defenders of faith.",
 		
 		"neutralHello": "I hear you.",
 		"neutralLetsHearIt": ["Go on."],
