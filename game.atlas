@@ -118,14 +118,14 @@ BuildingIcons/Vatadage
   index: -1
 CityStateIcons/Production
   rotate: false
-  xy: 774, 121
+  xy: 629, 17
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
 CityStateIcons/Scientific
   rotate: false
-  xy: 629, 16
+  xy: 1785, 1285
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
@@ -167,14 +167,14 @@ NationIcons/Kush
   index: -1
 NationIcons/Oman
   rotate: false
-  xy: 780, 610
+  xy: 780, 512
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 NationIcons/Phonecia
   rotate: false
-  xy: 1638, 1255
+  xy: 1785, 1383
   size: 108, 90
   orig: 108, 90
   offset: 0, 0
@@ -195,14 +195,14 @@ NationIcons/Scythia
   index: -1
 NationIcons/Somalia
   rotate: false
-  xy: 780, 414
+  xy: 779, 316
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 NationIcons/Sri Lanka
   rotate: false
-  xy: 1638, 1157
+  xy: 1783, 1187
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
@@ -223,7 +223,7 @@ NationIcons/The Anglo-Saxons
   index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 1844, 1725
+  xy: 1844, 1617
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -244,23 +244,21 @@ NationIcons/The Sassanid Empire
   index: -1
 ResourceIcons/Frankincense
   rotate: false
-  xy: 779, 317
+  xy: 779, 219
   size: 104, 89
   orig: 104, 89
   offset: 0, 0
   index: -1
 ResourceIcons/Myrrh
   rotate: false
-  xy: 779, 219
+  xy: 774, 121
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
 UnitIcons/Al Sultanah
   rotate: false
-  xy: 1785, 1371
-  size: 106, 90
-  orig: 106, 90
+  xy: 1901, 1391
   offset: 0, 0
   index: -1
 UnitIcons/Axeman
@@ -272,16 +270,14 @@ UnitIcons/Axeman
   index: -1
 UnitIcons/Bireme
   rotate: false
-  xy: 1899, 1371
+  xy: 780, 708
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 UnitIcons/Canoe
   rotate: false
-  xy: 1844, 1597
-  size: 138, 120
-  orig: 138, 120
+  xy: 1844, 1489
   offset: 0, 0
   index: -1
 UnitIcons/Dervish Cavalry
@@ -307,30 +303,28 @@ UnitIcons/Gajnal
   index: -1
 UnitIcons/Herald
   rotate: false
-  xy: 1280, 1166
+  xy: 484, 85
   size: 137, 119
   orig: 137, 119
   offset: 0, 0
   index: -1
 UnitIcons/Isienmwenro
   rotate: false
-  xy: 484, 85
+  xy: 629, 115
   size: 137, 119
   orig: 137, 119
   offset: 0, 0
   index: -1
 UnitIcons/Jahazi
   rotate: false
-  xy: 780, 708
+  xy: 780, 610
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 UnitIcons/Katipunero
   rotate: false
-  xy: 629, 114
-  size: 137, 120
-  orig: 137, 120
+  xy: 1493, 1225
   offset: 0, 0
   index: -1
 UnitIcons/Lada'kwe
@@ -349,21 +343,21 @@ UnitIcons/Myinsi
   index: -1
 UnitIcons/Pitati
   rotate: false
-  xy: 780, 512
+  xy: 780, 414
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 UnitIcons/Tolu-Batyr
   rotate: false
-  xy: 1493, 1226
+  xy: 1638, 1226
   size: 137, 119
   orig: 137, 119
   offset: 0, 0
   index: -1
 UnitIcons/Yodhaya
   rotate: false
-  xy: 1844, 1469
+  xy: 1280, 1165
   size: 138, 120
   orig: 138, 120
   offset: 0, 0
@@ -378,6 +372,13 @@ UnitIcons/Zenata Cavalry
 WonderImages/The Great Library
   rotate: false
   xy: 1844, 1933
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+WonderImages/The Motherland Calls
+  rotate: false
+  xy: 1844, 1825
   size: 200, 100
   orig: 200, 100
   offset: 0, 0
