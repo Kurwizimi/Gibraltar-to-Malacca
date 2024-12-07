@@ -263,6 +263,20 @@ TileSets/AbsoluteUnits/Units/Gajnal
   orig: 77, 79
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Gajnal-1
+  rotate: false
+  xy: 1176, 938
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gajnal-2
+  rotate: false
+  xy: 1033, 840
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
 UnitIcons/Al Sultanah
   rotate: false
   xy: 1901, 1391
