@@ -256,7 +256,7 @@ ResourceIcons/Myrrh
   orig: 104, 90
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Gajnal
+TileSets/AbsoluteUnits/Units/Gajnal
   rotate: false
   xy: 1189, 1432
   size: 77, 79
