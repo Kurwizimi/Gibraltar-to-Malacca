@@ -20,6 +20,13 @@
       		"column": 0,
 	}
 
+	{
+		"name": "Great Road",
+		"uniques": ["[This Unit] gains [2] movement <in [Hill] tiles>"]
+		"row": 110,
+      		"column": 0,
+	}
+
 
 
 
