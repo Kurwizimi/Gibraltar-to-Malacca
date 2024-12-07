@@ -256,9 +256,18 @@ ResourceIcons/Myrrh
   orig: 104, 90
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Gajnal
+  rotate: false
+  xy: 1189, 1432
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
 UnitIcons/Al Sultanah
   rotate: false
   xy: 1901, 1391
+  size: 106, 90
+  orig: 106, 90
   offset: 0, 0
   index: -1
 UnitIcons/Axeman
@@ -278,6 +287,8 @@ UnitIcons/Bireme
 UnitIcons/Canoe
   rotate: false
   xy: 1844, 1489
+  size: 138, 120
+  orig: 138, 120
   offset: 0, 0
   index: -1
 UnitIcons/Dervish Cavalry
@@ -325,6 +336,8 @@ UnitIcons/Jahazi
 UnitIcons/Katipunero
   rotate: false
   xy: 1493, 1225
+  size: 137, 120
+  orig: 137, 120
   offset: 0, 0
   index: -1
 UnitIcons/Lada'kwe
