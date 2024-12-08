@@ -284,6 +284,27 @@ TileSets/AbsoluteUnits/Units/Gajnal-attack-1
   orig: 77, 79
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Myinsi
+  rotate: false
+  xy: 1118, 860
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Myinsi-1
+  rotate: false
+  xy: 1280, 1098
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Myinsi-2
+  rotate: false
+  xy: 1274, 1025
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
 UnitIcons/Al Sultanah
   rotate: false
   xy: 1901, 1397
