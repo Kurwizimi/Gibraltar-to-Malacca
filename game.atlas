@@ -284,6 +284,69 @@ TileSets/AbsoluteUnits/Units/Gajnal-attack-1
   orig: 77, 79
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Jahazi
+  rotate: false
+  xy: 1346, 951
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jahazi-1
+  rotate: false
+  xy: 1203, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jahazi-2
+  rotate: false
+  xy: 1275, 883
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Myinsi
+  rotate: false
+  xy: 1118, 860
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Myinsi-1
+  rotate: false
+  xy: 1280, 1098
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Myinsi-2
+  rotate: false
+  xy: 1274, 1025
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Zenata Cavalry
+  rotate: false
+  xy: 1261, 947
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Zenata Cavalry-1
+  rotate: false
+  xy: 1365, 1093
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Zenata Cavalry-2
+  rotate: false
+  xy: 1359, 1015
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
 UnitIcons/Al Sultanah
   rotate: false
   xy: 1901, 1397
