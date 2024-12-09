@@ -104,7 +104,7 @@
             "[+9 Production] [in all cities] <starting from the [Medieval era]> <before the [Renaissance era]>",
             "[+12 Production] [in all cities] <starting from the [Renaissance era]> <before the [Industrial era]>",
             "[+15 Production] [in all cities] <starting from the [Industrial era]>" ,
-          [Worker] loses the [Karez Builders] status],
+            "[Worker] loses the [Karez Builders] status]"]
         "allyBonusUniques": [
             "[+5 Production] [in all cities] <before the [Classical era]>",
             "[+9 Production] [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
