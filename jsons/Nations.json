@@ -76,8 +76,8 @@
 			    "[+2 Production] from [Atoll] tiles [in all cities]",
 			    "[+1 Culture] from every [Water resource]"],
 		
-		"outerColor": [8, 91, 163],
-		"innerColor": [204, 149, 39],
+		"outerColor": [7,81,146],   //[8, 91, 163],
+		"innerColor": [209,159,60], //[204, 149, 39],
 		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi","Faza",
 			   "Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro"]
 	},
@@ -195,8 +195,8 @@
 		"uniqueName": "Spectre of Somaliland",
 		"uniques": ["[+5 Faith] from every [Fort] <when at war> ","[100]% of excess happiness converted to [Production] <upon declaring friendship> "],
 		
-		"outerColor": [7,81,146], //[40, 200, 200],
-		"innerColor": [209,159,60], //[148, 25, 6],
+		"outerColor": [40, 200, 200],
+		"innerColor":[148, 25, 6],
 		"cities": ["Mugadishu","Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale",
 			   "El Afweyn","Aynaba","Oog","Iskudar","Habariheshay"],
 		
