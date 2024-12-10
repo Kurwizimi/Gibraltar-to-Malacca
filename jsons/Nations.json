@@ -390,8 +390,8 @@
 		"uniques": ["[+2 Faith] from each Trade Route"
 			   ,"Comment [2 free copies of Frankincense and Myrrh luxuries in Capital]"],
 		
-		"outerColor": [135, 131, 0],
-		"innerColor": [25, 50, 75],
+		"outerColor": [83,41,129]//[135, 131, 0],
+		"innerColor": [87,153,146]//[25, 50, 75],
 		"cities": ["Muscat","Salalah","Nizwa","Sur","Ibra","Bahla","Rustaq","Barka","Muttrah","Sohar",
                            "Sahan","Samail","Khasab","Raysut","Jabrin","Al Hamra","Seeb","Duqm","Thumrait","Shinas",
                            "Manah","Madha","Zahnzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
