@@ -120,7 +120,7 @@
 	{
 		"name": "Bireme",
 		"unitType": "Melee Water",
-		"uniqueTo": "Phonecia",
+		"uniqueTo": "Phoenicia",
 		"replaces": "Trireme",
 		"movement": 3,
 		"cost": 45,
