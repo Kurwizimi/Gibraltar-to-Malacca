@@ -308,7 +308,7 @@
         "uniques": [ "Free Technology",
 		     "[+10]% [Culture] [in all cities]",
 		     "[+1 Science] per [5] population [in all cities]"],
-	"greatPersonPoints": {"Engineer": 3},
+	"greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Computers",
         "quote": "'Beep... Boop...'",
     },
