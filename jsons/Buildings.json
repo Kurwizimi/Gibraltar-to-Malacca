@@ -106,7 +106,7 @@
 		"uniques":   ["Provides [3] [Iron]",
 			    "[+1 Faith] [in all Cities] <during the [Classical era]>",
 			    "[+2 Faith] [in all Cities] <during the [Medieval era]>",
-			    "[+3 Faith] [in all Cities] <during the [Medieval era]>",
+			    "[+3 Faith] [in all Cities] <during the [Renaissance era]>",
 		             "Indicates the capital city"],
 		
 	},
@@ -269,13 +269,13 @@
 	             "[+1 Production] from [Quarry] tiles [in this city]",
 	             "[+1 Gold] from [Plantation] tiles [in this city]"],
         "requiredTech": "Animal Husbandry",
-        "quote": "'Is Gobekli Tepe evidence of a lost advanced civilisation from the ice age, or is it shocking proof that ancient people knew how to ...put rocks on top of each other?' - Milo Rossi"
+        "quote": "'Is Gobekli Tepe evidence of a lost advanced civilisation from the ice age, or is it shocking proof that ancient people knew how to put rocks on top of each other?' - Milo Rossi"
     },
 
 	{
         "name": " Kowloon Walled City",
         "isWonder": true,
-        "uniques": [ "[9] population [in this city]",
+        "uniques": [ "[+9] population [in this city]",
 	             "[-1 Happiness] per [3] population [in this city]"],
         "requiredTech": "Electronics",
         "quote": "'It's a heterogeneous space, a space where it is not easy to generalize, a space where it looks horrible but where so many people are trying to live a normal life. It is like Hong Kong itself.' - Leung Ping-kwan"
@@ -289,7 +289,7 @@
 	             "[+1 Happiness] per [3] population [in this city] <when not at war>",
 	             "[+20]% Production when constructing [Melee] units [in this city] <when at war>"],
         "requiredTech": "Replaceable Parts",
-        "quote": "'...A memorial-monument in the city of Stalingrad commemorating victory over the German fascist force' - Council of Ministers"
+        "quote": "'...A memorial-monument in the city of Stalingrad commemorating victory over the German fascist force' - Council of Ministers, Soviet Union"
     },
 
 	{
@@ -297,9 +297,7 @@
         "isWonder": true,
 	"percentStatBonus": {"production": 20},
         "uniques": ["[+2 Faith] <in cities with a [Temple]>",
-	            "Gain a free [Mosque] [in this city]",
-                    "Only available <after adopting [Piety]>"
-        ],
+	            "Gain a free [Mosque] [in this city]"],
         "requiredTech": "Metal Casting",
         "quote": "'Al-Mutawakkil also built a great cathedral mosque and lavished enormous sums of money on it, making the minaret so high that the voices of the muezzins could be easily heard, and the minaret could be seen at a distance of many parasangs.' - Al-Baladhuri, Kitab Futuh al-Buldan"
     },
@@ -310,7 +308,7 @@
         "uniques": [ "Free Technology",
 		     "[+10]% [Culture] [in all cities]",
 		     "[+1 Science] per [5] population [in all cities]"],
-	"greatPersonPoints": {"Great Engineer": 3},
+	"greatPersonPoints": {"Engineer": 3},
         "requiredTech": "Computers",
         "quote": "'Beep... Boop...'",
     },
