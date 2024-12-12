@@ -231,7 +231,7 @@
 		"tradeRequest": "Accept this deal if this benefits you.",
 
 		"uniqueName": "Oasisamerica",
-		"uniques": ["[+2 Food, +1 Production] from every [Desert]","[+15]% Strength <for [Military] units> <when fighting in [Desert] tiles> "],
+		"uniques": ["[+2 Food] from every [Desert]","[+1 Production] from every [Road]","[+15]% Strength <for [Military] units> <when fighting in [Desert] tiles> "],
 		
 		"outerColor": [175, 150, 60],
 		"innerColor": [65, 50, 15],
@@ -263,7 +263,7 @@
 		"tradeRequest": "This trade will benifit us both",
 		
 		"uniqueName": "Architects of Wonders",
-		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <during a Golden Age> "],
+		"uniques": ["[+75]% Production when constructing [All] wonders [in all cities] <during a Golden Age> "],
 		
 		"outerColor": [0, 109, 33],
 		"innerColor": [255, 215, 0],
@@ -448,7 +448,7 @@
 		"declaringWar": "Come men, lets plunder this petty kings land!",
 		"attacked": "Charging head-on to our fortifications? You are more stupid than you look!",
 		"defeated": "The bronze the Edo forged shall be remembered forevermore, but your grip on Benin shall loosen eventually!",
-		"introduction": "I am The great Oba Ewuare of Benin, leader of the fortified walls of our magnificent capital.",
+		"introduction": "I am the Great Oba Ewuare of Benin, leader of the fortified walls of our magnificent capital.",
 		
 		"neutralHello": "I hear you.",
 		"neutralLetsHearIt": ["Go on."],
@@ -490,7 +490,7 @@
 		"declaringWar": "You scatter your troops too far apart, and Burgundy shall take advantage of that.",
 		"attacked": "Our love of the arts may seem that we are weak, but the Duchy shall remain!",
 		"defeated": "The beauty of Burgundy shall be split between warring powers, a tragic fate.",
-		"introduction": "Ah, yes. I thought I heard someone wandering around my court. I, Philip III, welcome to the Duchy of Burgundy.",
+		"introduction": "Ah, yes. I thought I heard someone wandering around my court. I, Philip III, welcome you to the Duchy of Burgundy.",
 		
 		"neutralHello": "I hear you.",
 		"neutralLetsHearIt": ["Go on."],
@@ -587,7 +587,7 @@
 		"afterPeace": "This tribute shall be accepteble",
 		"tradeRequest": "Are you interested in this trade?",
 
-		"spyNames": ["Caalus","Felip","Pablou","Antonia"],
+		"spyNames": ["Caalus","Felip","Pablou","Antonia","Senquene","Mr Croc."],
 
 
 		"uniqueName": "Masters of the Everglades",
@@ -596,9 +596,9 @@
 		
 		"outerColor": [32, 54, 25],
 		"innerColor": [146, 209, 202],
-		"cities": ["Escampaha","Muspa","Mayaimi","Hobe","Jece","Tekeste","Guarugunbe","Cuchianga","Jaega","Tateste"
-			  ,"Custegiyo","Tocobanga","Pohoy","Uzita","Mocoso","Bomto","Ais","Jobe","Ulumay","Santalucea"
-			  ,"Timucua"]
+		"cities": ["Escampaha","Muspa","Mayaimi","Tampa","Hobe","Jece","Tekeste","Guarugunbe","Cuchianga","Jaega",
+			   "Tateste","Custegiyo","Tocobanga","Pohoy","Uzita","Mocoso","Bomto","Ais","Jobe","Ulumay",
+			   "Santalucea" ,"Timucua"]
 	},
 
 	{
@@ -673,8 +673,8 @@
 
 
 		"uniqueName": "Nomads of Asia",
-		"uniques": [ "[+1 Food] from [Pasture] tiles [in all cities]",
-			     "[-25]% construction time for [Pasture] improvements"],
+		"uniques": [ "[+2 Food] from [Pasture] tiles [in all cities]",
+			     "[-50]% construction time for [Pasture] improvements"],
 		
 		"outerColor": [0, 175, 202],
 		"innerColor": [229, 230, 211],
@@ -714,7 +714,15 @@
 
 		"uniqueName": "Destroyer of Persia",
 		"uniques": [ "All newly-trained [Mounted] units [in all cities] receive the [Charge] promotion",
-			     "Free [Horseman] appears <upon conquering a city>"],
+			     "Comment [Free [Mounted unit] appears <upon conquering a city>]",
+			     "Free [Chariot Archer] appears <upon conquering a city> <during the [Ancient era]> <hidden from users>",
+			     "Free [Horseman] appears <upon conquering a city> <during the [Classical era]> <hidden from users>",
+		             "Free [Knight] appears <upon conquering a city> <during the [Medieval era]> <hidden from users>",
+		             "Free [Lancer] appears <upon conquering a city> <during the [Renaissance era]> <hidden from users>",
+		             "Free [Cavalry] appears <upon conquering a city> <during the [Industrial era]> <hidden from users>",
+		             "Free [Landship] appears <upon conquering a city> <during the [Modern era]> <hidden from users>",
+		             "Free [Tank] appears <upon conquering a city> <during the [Information era]> <hidden from users>",
+		             "Free [Giant Death Robot] appears <upon conquering a city> <during the [Future era]> <hidden from users>"],
 		
 		"outerColor": [99, 59, 12],
 		"innerColor": [187, 189, 75],
