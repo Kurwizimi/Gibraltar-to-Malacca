@@ -601,7 +601,7 @@ UnitIcons/Lada'kwe
   index: -1
 UnitIcons/Myinsi
   rotate: false
-   xy: 1176, 946
+  xy: 1176, 946
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
