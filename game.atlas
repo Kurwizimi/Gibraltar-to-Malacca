@@ -256,6 +256,13 @@ ResourceIcons/Myrrh
   orig: 104, 90
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Axeman
+  rotate: false
+  xy: 936, 846
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Dervish Cavalry
   rotate: false
   xy: 1189, 1454
@@ -265,154 +272,245 @@ TileSets/AbsoluteUnits/Units/Dervish Cavalry
   index: -1
 TileSets/AbsoluteUnits/Units/Dervish Cavalry-1
   rotate: false
-  xy: 1176, 960
+  xy: 893, 417
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dervish Cavalry-2
   rotate: false
-  xy: 1136, 773
+  xy: 978, 417
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Myinsi-2
   rotate: false
-  xy: 1136, 773
+  xy: 978, 417
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Gajnal
-  rotate: false
-  xy: 893, 670
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Gajnal-1
-  rotate: false
-  xy: 893, 583
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Gajnal-2
-  rotate: false
-  xy: 893, 496
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Gajnal-attack-1
-  rotate: false
-  xy: 893, 409
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Jahazi
-  rotate: false
-  xy: 1063, 695
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Jahazi-1
-  rotate: false
-  xy: 1063, 631
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Jahazi-2
-  rotate: false
-  xy: 1063, 567
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Katipunan
-  rotate: false
-  xy: 936, 846
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Lada'kwe
+TileSets/AbsoluteUnits/Units/Fyrd
   rotate: false
   xy: 1039, 846
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Lada'kwe-1
+TileSets/AbsoluteUnits/Units/Fyrd-1
   rotate: false
   xy: 484, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Lada'kwe-2
+TileSets/AbsoluteUnits/Units/Fyrd-2
   rotate: false
   xy: 1142, 846
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Myinsi
+TileSets/AbsoluteUnits/Units/Gajnal
   rotate: false
-  xy: 892, 336
-  size: 77, 65
-  orig: 77, 65
+  xy: 892, 330
+  size: 77, 79
+  orig: 77, 79
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Myinsi-1
+TileSets/AbsoluteUnits/Units/Gajnal-1
   rotate: false
-  xy: 978, 684
-  size: 77, 65
-  orig: 77, 65
+  xy: 977, 330
+  size: 77, 79
+  orig: 77, 79
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Pitati
+TileSets/AbsoluteUnits/Units/Gajnal-2
+  rotate: false
+  xy: 1063, 403
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gajnal-attack-1
+  rotate: false
+  xy: 1062, 316
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Herald
   rotate: false
   xy: 741, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Pitati-1
+TileSets/AbsoluteUnits/Units/Isienmwenro
   rotate: false
   xy: 844, 40
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Pitati-2
+TileSets/AbsoluteUnits/Units/Isienmwenro-1
   rotate: false
   xy: 936, 757
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Isienmwenro-2
+  rotate: false
+  xy: 1039, 757
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jahazi
+  rotate: false
+  xy: 1202, 615
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jahazi-1
+  rotate: false
+  xy: 1202, 551
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jahazi-2
+  rotate: false
+  xy: 1148, 348
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Katipunan
+  rotate: false
+  xy: 1142, 757
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lada'kwe
+  rotate: false
+  xy: 893, 668
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lada'kwe-1
+  rotate: false
+  xy: 893, 579
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lada'kwe-2
+  rotate: false
+  xy: 996, 668
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Myinsi
+  rotate: false
+  xy: 1280, 1100
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Myinsi-1
+  rotate: false
+  xy: 1274, 1027
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pitati
+  rotate: false
+  xy: 893, 490
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pitati-1
+  rotate: false
+  xy: 996, 579
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pitati-2
+  rotate: false
+  xy: 1099, 668
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tolu-Batyr
+  rotate: false
+  xy: 1273, 949
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tolu-Batyr-1
+  rotate: false
+  xy: 1365, 1095
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tolu-Batyr-2
+  rotate: false
+  xy: 1359, 1017
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Yodhaya
+  rotate: false
+  xy: 996, 490
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Yodhaya-1
+  rotate: false
+  xy: 1099, 579
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Yodhaya-2
+  rotate: false
+  xy: 1099, 490
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry
   rotate: false
-  xy: 978, 606
+  xy: 1358, 939
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-1
   rotate: false
-  xy: 978, 528
+  xy: 1148, 412
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-2
   rotate: false
-  xy: 978, 450
+  xy: 1202, 679
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -503,7 +601,7 @@ UnitIcons/Lada'kwe
   index: -1
 UnitIcons/Myinsi
   rotate: false
-  xy: 1039, 759
+   xy: 1176, 946
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
