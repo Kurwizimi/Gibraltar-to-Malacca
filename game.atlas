@@ -340,6 +340,13 @@ TileSets/AbsoluteUnits/Units/Gajnal-attack-1
   orig: 77, 79
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Goum
+  rotate: false
+  xy: 891, 228
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Herald
   rotate: false
   xy: 741, 34
@@ -356,21 +363,21 @@ TileSets/AbsoluteUnits/Units/Isienmwenro
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi
   rotate: false
-  xy: 1245, 875
+  xy: 1245, 802
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-1
   rotate: false
-  xy: 1245, 811
+  xy: 1330, 875
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-2
   rotate: false
-  xy: 1317, 875
+  xy: 1245, 738
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -405,14 +412,14 @@ TileSets/AbsoluteUnits/Units/Lada'kwe-2
   index: -1
 TileSets/AbsoluteUnits/Units/Myinsi
   rotate: false
-  xy: 891, 243
+  xy: 976, 243
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Myinsi-1
   rotate: false
-  xy: 976, 243
+  xy: 1280, 1100
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
@@ -440,21 +447,21 @@ TileSets/AbsoluteUnits/Units/Pitati-2
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr
   rotate: false
-  xy: 1280, 1095
+  xy: 1274, 1022
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr-1
   rotate: false
-  xy: 1274, 1017
+  xy: 1365, 1095
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr-2
   rotate: false
-  xy: 1365, 1095
+  xy: 1359, 1017
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -482,21 +489,21 @@ TileSets/AbsoluteUnits/Units/Yodhaya-2
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry
   rotate: false
-  xy: 1359, 1017
+  xy: 1261, 944
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-1
   rotate: false
-  xy: 1261, 939
+  xy: 1346, 939
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-2
   rotate: false
-  xy: 1346, 939
+  xy: 1245, 866
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
