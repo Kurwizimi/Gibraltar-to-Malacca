@@ -13,6 +13,17 @@
 		"requiredResource": "Horses",
 		"promotions": ["Besiege"],
 	}
+	{
+		"name": "Goum",
+		"unitType": "Mounted",
+		"uniqueTo": "Burma",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 29,
+		"cost": 2,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
 
 	{
 		"name": "Jahazi",
