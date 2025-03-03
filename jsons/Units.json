@@ -37,6 +37,17 @@
 		"obsolete": "Astronomy",
 		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>","Cannot enter ocean tiles","May create improvements on water resources"]
 	}
+	{
+		"name": "Jazayerchiha",
+		"unitType": "Mounted",
+		"uniqueTo": "Swahili",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 29,
+		"cost": 2,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
 
 	{
 		"name": "Zenata Cavalry",
